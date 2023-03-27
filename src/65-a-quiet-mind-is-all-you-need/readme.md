@@ -1,0 +1,115 @@
+# 65. A Quiet Mind Is All You Need
+
+>A quiet mind is all you need. All else will happen rightly once your mind is quiet. As the sun on rising makes the world active, so does self-awareness affect changes in the mind. …inner energies wake up and work miracles without any effort on your part.</p>
+
+<p><b>Questioner:</b> I am not well. I feel rather weak. What am I to do?</p>
+
+<p><b>Maharaj:</b> Who is unwell – you or the body?</p>
+
+<p><b>Q:</b> My body, of course.</p>
+
+<p><b>M:</b> Yesterday you felt well. What felt well?</p>
+
+<p><b>Q:</b> The body.</p>
+
+<p><b>M:</b> You were glad when the body was well and you are sad when the body is unwell. Who is glad one day and sad the next day?</p>
+
+<p><b>Q:</b> The mind.</p>
+
+<p><b>M:</b> And who knows the variable mind?</p>
+
+<p><b>Q:</b> The mind.</p>
+
+<p><b>M:</b> The mind is the knower. Who knows the knower?</p>
+
+<p><b>Q:</b> Does not the knower know itself?</p>
+
+<p><b>M:</b> The mind is discontinuous. Again and again it blanks out, like in sleep or swoon or distraction. There must be something continuous to register discontinuity.</p>
+
+<p><b>Q:</b> The mind remembers. This stands for continuity.</p>
+
+<p><b>M:</b> Memory is always partial, unreliable and evanescent. It does not explain the strong sense of identity pervading consciousness, the sense ‘I am’. Find out what is at the root of it.</p>
+
+<p><b>Q:</b> However deeply I look, I find only the mind. Your words, “beyond the mind”, give me no clue.</p>
+
+<p><b>M:</b> While looking with the mind, you cannot go beyond it. To go beyond, you must look away from the mind and its contents.</p>
+
+<p><b>Q:</b> In what direction am I to look?</p>
+
+<p><b>M:</b> All directions are within the mind! I am not asking you to look in any particular direction. Just look away from all that happens in your mind and bring it to the feeling ‘I am’. The ‘I am’ is not a direction. It is the negation of all direction. Ultimately even the ‘I am’ will have to go, for you need not keep on asserting what is obvious. Bringing the mind to the feeling ‘I am’ merely helps in turning the mind away from everything else.</p>
+
+<p><b>Q:</b> Where does it all lead me?</p>
+
+<p><b>M:</b> When the mind is kept away from its preöccupations, it becomes quiet. If you do not disturb this quiet and stay in it, you find that it is permeated with a light and a love you have never known; and yet you recognise it at once as your own nature. Once you have passed through this experience, you will never be the same man again; the unruly mind may break its peace and obliterate its vision, but it is bound to return, provided the effort is sustained, until the day when all bonds are broken, delusions and attachments end, and life becomes supremely concentrated in the present.</p>
+
+<p><b>Q:</b> What difference does it make?</p>
+
+<p><b>M:</b> The mind is no more. There is only love in action.</p>
+
+<p><b>Q:</b> How shall I recognise this state when I reach it?</p>
+
+<p><b>M:</b> There will be no fear.</p>
+
+<p><b>Q:</b> Surrounded by a world full of mysteries and dangers, how can I remain unafraid?</p>
+
+<p><b>M:</b> Your own little body, too, is full of mysteries and dangers, yet you are not afraid of it, for you take it as your own. What you do not know is that the entire universe is your body and you need not be afraid of it. You may say you have two bodies; the personal and the universal. The personal comes and goes, the universal is always with you. The entire creation is your universal body. You are so blinded by what is personal that you do not see the universal. This blindness will not end by itself — it must be undone skillfully and deliberately. When all illusions are understood and abandoned, you reach the error-free and perfect state in which all distinctions between the personal and the universal are no more.</p>
+
+<p><b>Q:</b> I am a person and therefore limited in space and time. I occupy little space and last but a few moments — I cannot even conceive myself to be eternal and all-pervading.</p>
+
+<p><b>M:</b> Nevertheless you *are*. As you dive deep into yourself in search of your true nature, you will discover that only your body is small and only your memory is short, while the vast ocean of life is yours.</p>
+
+<p><b>Q:</b> The very words ‘I’ and ‘universal’ are contradictory. One excludes the other.</p>
+
+<p><b>M:</b> They don’t. The sense of identity pervades the universal. Search and you shall discover the Universal Person, who is yourself and infinitely more. Anyhow, begin by realising that the world is in you, not you in the world.</p>
+
+<p><b>Q:</b> How can it be? I am only a part of the world. How can the whole world be contained in the part, except by reflection, mirror like?</p>
+
+<p><b>M:</b> What you say is true. Your personal body is a part in which the whole is wonderfully reflected. But you also have a universal body. You cannot even say that you do not know it, because you see and experience it all the time. Only you call it ‘the world’ and are afraid of it.</p>
+
+<p><b>Q:</b> I feel that I know my little body, while the other I do not know, except through science.</p>
+
+<p><b>M:</b> Your little body is full of mysteries and wonders which you do not know. There also, science is your only guide. Both anatomy and astronomy describe you.</p>
+
+<p><b>Q:</b> Even If I accept your doctrine of the universal body as a working theory, in what way can I test it and of what use is it to me?</p>
+
+<p><b>M:</b> Knowing yourself as the dweller in both of the bodies, you will disown nothing. All the universe will be your concern; every living thing you will love and help most tenderly and wisely. There will be no clash of interests between you and others. All exploitation will cease absolutely. Your every action will be beneficial, every movement will be a blessing.</p>
+
+<p><b>Q:</b> It is all very tempting, but how am I to proceed to realise my universal being?</p>
+
+<p><b>M:</b> You have two ways: you can give your heart and mind to self-discovery, or you accept my words on trust and act accordingly. In other words, either you become totally self-concerned, or totally unself-concerned. It is the word ‘totally’ that is important. You must be extreme to reach the Supreme.</p>
+
+<p><b>Q:</b> How can I aspire to such heights, small and limited as I am?</p>
+
+<p><b>M:</b> Realise yourself as the ocean of consciousness in which all happens. This is not difficult. A little of attentiveness, of close observation of oneself, and you will see that no event is outside your consciousness.</p>
+
+<p><b>Q:</b> The world is full of events which do not appear in my consciousness.</p>
+
+<p><b>M:</b> Even your body is full of events which do not appear in your consciousness. This does not prevent you from claiming your body to be your own. You know the world exactly as you know your body — through your senses. It is your mind that has separated the world outside your skin from the world inside and put them in opposition. This has created fear and hatred and all the miseries of living.</p>
+
+<p><b>Q:</b> What I do not follow is what you say about going beyond consciousness. I understand the words, but I cannot visualise the experience. After all, you yourself have said that all experience is in consciousness.</p>
+
+<p><b>M:</b> You are right — there can be no experience beyond consciousness. Yet there is the experience of just *being*. There is a state beyond consciousness which is not unconscious. Some call it super-consciousness, or pure consciousness, or supreme consciousness. It is pure awareness, free from the subject–object nexus.</p>
+
+<p><b>Q:</b> I have studied Theosophy and I find nothing familiar in what you say. I admit Theosophy deals with manifestation only. It describes the universe and its inhabitants in great detail. It admits many levels of matter and corresponding levels of experience, but it does not seem to go beyond. What you say goes beyond all experience. If it is not experiencable, why talk about it at all?</p>
+
+<p><b>M:</b> Consciousness is intermittent, full of gaps. Yet there is the continuity of identity. What is this sense of identity due to, if not to something beyond consciousness?</p>
+
+<p><b>Q:</b> If I am beyond the mind, how can I change myself?</p>
+
+<p><b>M:</b> Where is the need of changing anything? The mind is changing all the time anyhow. Look at your mind dispassionately; this is enough to calm it. When it is quiet, you can go beyond it. Do not keep it busy all the time. Stop it — and just *be*. If you give it rest, it will settle down and recover its purity and strength. Constant thinking makes it decay.</p>
+
+<p><b>Q:</b> If my true being is always with me, how is it that I am ignorant of it?</p>
+
+<p><b>M:</b> Because it is very subtle and your mind is gross, full of gross thoughts and feelings. Calm and clarify your mind and you will know yourself as you are.</p>
+
+<p><b>Q:</b> Do I need the mind to know myself?</p>
+
+<p><b>M:</b> You are beyond the mind, but you know with your mind. It is obvious that the extent, depth and character of knowledge depend on what instrument you use. Improve your instrument and your knowledge will improve.</p>
+
+<p><b>Q:</b> To know perfectly I need a perfect mind.</p>
+
+<p><b>M:</b> A quiet mind is all you need. All else will happen rightly once your mind is quiet. As the sun on rising makes the world active, so does self-awareness affect changes in the mind. In the light of calm and steady self-awareness inner energies wake up and work miracles without any effort on your part.</p>
+
+<p><b>Q:</b> You mean to say that the greatest work is done by not working?</p>
+
+<p><b>M:</b> Exactly. Do understand that you are destined for enlightenment. Coöperate with your destiny, don’t go against it, don’t thwart it. Allow it to fulfill itself. All you have to do is to give attention to the obstacles created by the foolish mind.

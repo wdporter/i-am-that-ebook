@@ -1,0 +1,170 @@
+# 70. God Is the End of All Desire and Knowledge
+
+> … God is the end of all desire and knowledge. … All desires must be given up because by desiring you take the shape of your desires. When no desires remain, you revert to your natural state.</p>
+
+<p><b>Maharaj:</b> Where are you coming from? What have you come for?</p>
+
+<p><b>Questioner:</b> I come from America and my friend is from the Republic of Ireland. I came about six months ago and I was travelling from *ashram* to *ashram*. My friend came on his own.</p>
+
+<p><b>M:</b> What have you seen?</p>
+
+<p><b>Q:</b> I have been at Sri Ramanashram and also I have visited Rishikesh. Can I ask you what your opinion of Sri Ramana Maharshi is?</p>
+
+<p><b>M:</b> We are both in the same ancient state. But what do you know of Maharshi? You take yourself to be a name and a body, so all you perceive are names and bodies.</p>
+
+<p><b>Q:</b> Were you to meet the Maharshi, what would happen?</p>
+
+<p><b>M:</b> Probably we would feel quite happy. We may even exchange a few words.</p>
+
+<p><b>Q:</b> But would he recognise you as a liberated man?</p>
+
+<p><b>M:</b> Of course. As a man recognises a man, so a <a href="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</a> recognises a <i>jnani</i>. You cannot appreciate what you have not experienced. You are what you think yourself to be, but you cannot think yourself to be what you have not experienced.</p>
+
+<p><b>Q:</b> To become an engineer, I must learn engineering. To become God, what must I learn?</p>
+
+<p><b>M:</b> You must unlearn everything. God is the end of all desire and knowledge.</p>
+
+<p><b>Q:</b> You mean to say that I become God merely by giving up the desire to become God?</p>
+
+<p><b>M:</b> All desires must be given up because by desiring you take the shape of your desires. When no desires remain, you revert to your natural state.</p>
+
+<p><b>Q:</b> How do I come to know that I have achieved perfection?</p>
+
+<p><b>M:</b> You cannot know perfection — you can know only imperfection. For knowledge to be, there must be separation and disharmony. You can know what you are not, but you cannot know your real being. You can only be what you are. The entire approach is through understanding, which is in the seeing of the false as false. But to understand, you must observe from outside.</p>
+
+<p><b>Q:</b> The *Vedant*ic concept of *maya*, illusion, applies to the manifested. Therefore our knowledge of the manifested is unreliable. But we should be able to trust our knowledge of the unmanifested.</p>
+
+<p><b>M:</b> There can be no knowledge of the unmanifested. The potential is unknowable. Only the actual can be known.</p>
+
+<p><b>Q:</b> Why should the knower remain unknown?</p>
+
+<p><b>M:</b> The knower knows the known. Do you know the knower? Who is the knower of the knower? You want to know the unmanifested. Can you say you know the manifested?</p>
+
+<p><b>Q:</b> I know things and ideas and their relations. It is the sum total of all my experiences.</p>
+
+<p><b>M:</b> All?</p>
+
+<p><b>Q:</b> Well, all actual experiences. I admit I cannot know what did not happen.</p>
+
+<p><b>M:</b> If the manifested is the sum total of all actual experiencers, including their experiences, how much of the total do you know? A very small part indeed. And what is the little you know?</p>
+
+<p><b>Q:</b> Some sensory experiences as related to myself.</p>
+
+<p><b>M:</b> Not even that. You only know that you reäct. Who reäcts and to what, you do not know. You know on contact that you exist — ‘I am’. The ‘I am this’, ‘I am that’ are imaginary.</p>
+
+<p><b>Q:</b> I know the manifested because I participate in it. I admit my part in it is very small, yet it is as real as the totality of it. And what is more important, I give it meaning. Without me the world is dark and silent.</p>
+
+<p><b>M:</b> A firefly illumining the world! You don’t give meaning to the world, you find it. Dive deep into yourself and find the source from where all meaning flows. Surely, it is not the superficial mind that can give meaning.</p>
+
+<p><b>Q:</b> What makes me limited and superficial?</p>
+
+<p><b>M:</b> The total is open and available, but you will not take it. You are attached to the little person you think yourself to be. Your desires are narrow, your ambitions petty. After all, without a centre of perception, where would be the manifested be? Unperceived, the manifested is as good as the unmanifested. And you are the perceiving point, the non-dimensional source of all dimensions. Know yourself as the total.</p>
+
+<p><b>Q:</b> How can a point contain a universe?</p>
+
+<p><b>M:</b> There is enough space in a point for an infinity of universes. There is no lack of capacity. Self-limitation is the only problem. But you cannot run away from yourself. However far you go, you come back to yourself and to the need for understanding this point, which is as nothing and yet is the source of everything.</p>
+
+<p><b>Q:</b> I came to India in search of a <a href="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</a> teacher. I am still in search.</p>
+
+<p><b>M:</b> What kind of *yoga* do you want to practice, the *yoga* of getting, or the *yoga* of giving up?</p>
+
+<p><b>Q:</b> Don’t they come to the same in the end?</p>
+
+<p><b>M:</b> How can they? One enslaves, the other liberates. The motive matters supremely. Freedom comes through renunciation. All possession is bondage.</p>
+
+<p><b>Q:</b> What I have the strength and the courage to hold on to, why should I give it up? And if I have not the strength, how can I give up? I do not understand this need for giving up. When I want something, why should I not pursue it? Renunciation is for the weak.</p>
+
+<p><b>M:</b> If you do not have the wisdom and the strength to give up, just look at your possessions. Your mere looking will burn them up. If you can stand outside your mind, you will soon find that total renunciation of possessions and desires is the most obviously reasonable thing to do. 
+
+You create the world and then worry about it. Becoming selfish makes you weak. If you think you have the strength and courage to desire, it is because you are young and inexperienced. Invariably the object of desire destroys the means of acquiring it and then withers away itself. It is all for the best because it teaches you to shun desire like poison.</p>
+
+<p><b>Q:</b> How am I to practice desirelessness?</p>
+
+<p><b>M:</b> No need of practice. No need of any acts of renunciation. Just turn your mind away, that is all. Desire is merely the fixation of the mind on an idea. Get it out of its groove by denying it attention.</p>
+
+<p><b>Q:</b> That is all?</p>
+
+<p><b>M:</b> Yes, that is all. Whatever may be the desire or fear, don’t dwell upon it. Try and see for yourself. Here and there you may forget — it does not matter. Go back to your attempts until the brushing away of every desire and fear, of every reäction, becomes automatic.</p>
+
+<p><b>Q:</b> How can one live without emotions?</p>
+
+<p><b>M:</b> You can have all the emotions you want, but beware of reäctions, of induced emotions. Be entirely self-determined and ruled from within, not from without. 
+
+Merely giving up a thing to secure a better one is not true relinquishment. Give it up because you see its valuelessness. As you continue giving up, you will find that you grow spontaneously in intelligence, power and inexhaustible love and joy.</p>
+
+<p><b>Q:</b> Why so much insistence on relinquishing all desires and fears? Are they not natural?</p>
+
+<p><b>M:</b> They are not. They are entirely mind-made. You have to give up everything to know that you need nothing, not even your body. Your needs are unreal and your efforts are meaningless. You imagine that your possessions protect you. In reality they make you vulnerable. Realise yourself as apart from all that can be pointed at as ‘this’ or ‘that’. You are unreachable by any sensory experience or verbal construction. Turn away from them. Refuse to impersonate.</p>
+
+<p><b>Q:</b> After I have heard you, what am I to do?</p>
+
+<p><b>M:</b> Merely hearing will not help you much. You must keep it in mind and ponder it and try to understand the state of mind which makes me say what I say. I speak from truth; stretch your hand and take it. You are not what you think yourself to be, I assure you. The image you have of yourself is made up from memories and is purely accidental.</p>
+
+<p><b>Q:</b> What I am is the result of my <a href="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</a>.</p>
+
+<p><b>M:</b> What you appear to be, you are not. *Karma* is only a word you have learnt to repeat. You have never been, nor shall ever be, a person. Refuse to consider yourself as one. But as long as you do not even doubt yourself to be a Mr. So-and-so, there is little hope. When you refuse to open your eyes, what can you be shown?</p>
+
+<p><b>Q:</b> I imagine *karma* to be a mysterious power that urges me towards perfection.</p>
+
+<p><b>M:</b> That’s what people told you. You are already perfect, here and now. The perfectible is not you. You imagine yourself to be what you are not — stop it. It is the cessation that is important, not what you are going to stop.</p>
+
+<p><b>Q:</b> Did not *karma* compel me to become what I am?</p>
+
+<p><b>M:</b> Nothing compels. You are as you believe yourself to be. Stop believing.</p>
+
+<p><b>Q:</b> Here you are sitting on your seat and talking to me. What compels you is your *karma*.</p>
+
+<p><b>M:</b> Nothing compels me. I do what needs doing. But you do so many unnecessary things. It is your refusal to examine that creates *karma*. It is the indifference to your own suffering that perpetuates it.</p>
+
+<p><b>Q:</b> Yes, it is true. What can put an end to this indifference?</p>
+
+<p><b>M:</b> The urge must come from within as a wave of detachment or compassion.</p>
+
+<p><b>Q:</b> Could I meet this urge half-way?</p>
+
+<p><b>M:</b> Of course. See your own condition; see the condition of the world.</p>
+
+<p><b>Q:</b> We were told about *karma* and reïncarnation, evolution and *yoga*, masters and disciples. What are we to do with all this knowledge?</p>
+
+<p><b>M:</b> Leave it all behind you. Forget it. Go forth unburdened with ideas and beliefs. Abandon all verbal structures, all relative truth, all tangible objectives. The Absolute can be reached by absolute devotion only. Don’t be half-hearted.</p>
+
+<p><b>Q:</b> I must begin with some absolute truth. Is there any?</p>
+
+<p><b>M:</b> Yes, there is, the feeling ‘I am’. Begin with that.</p>
+
+<p><b>Q:</b> Nothing else is true?</p>
+
+<p><b>M:</b> All else is neither true nor false. It seems real when it appears; it disappears when it is denied. A transient thing is a mystery.</p>
+
+<p><b>Q:</b> I thought the real is the mystery.</p>
+
+<p><b>M:</b> How can it be? The real is simple, open, clear and kind, beautiful and joyous. It is completely free of contradictions. It is ever new, ever fresh, endlessly creative. Being and non-being, life and death — all distinctions merge in it.</p>
+
+<p><b>Q:</b> I can admit that all is false. But does it make my mind nonexistent?</p>
+
+<p><b>M:</b> The mind is what it thinks. To make it true, think true.</p>
+
+<p><b>Q:</b> If the shape of things is mere appearance, what are they in reality?</p>
+
+<p><b>M:</b> In reality there is only perception. The perceiver and the perceived are conceptual; the fact of perceiving is actual.</p>
+
+<p><b>Q:</b> Where does the Absolute come in?</p>
+
+<p><b>M:</b> The Absolute is the birthplace of perceiving. It makes perception possible. 
+
+But too much analysis leads you nowhere. There is in you the core of being which is beyond analysis, beyond the mind. You can know it in action only. Express it in daily life and its light will grow ever brighter. 
+
+The legitimate function of the mind is to tell you what is not. But if you want positive knowledge you must go beyond the mind.</p>
+
+<p><b>Q:</b> In all the universe is there one single thing of value?</p>
+
+<p><b>M:</b> Yes, the power of love.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

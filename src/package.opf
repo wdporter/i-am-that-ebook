@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+		<dc:identifier opf:scheme="uuid" id="uuid_id">dd3c1389-eead-47e1-917b-32ea1de30e9f</dc:identifier>
+		<dc:title>I Am That</dc:title>
+		<dc:creator opf:file-as="I Am That" opf:role="aut">Nisargadatta Maharaj</dc:creator>
+		<dc:contributor opf:file-as="Porter, W. David" opf:role="bkp">David Porter</dc:contributor>
+		<dc:language>eng</dc:language>
+	</metadata>
+	<manifest>
+		<item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml" />
+		<item id="foreword" href="foreword.xhtml" media-type="application/xhtml+xml" />
+		<item id="who-is" href="who-is.xhtml" media-type="application/xhtml+xml" />
+		<item id="translators-note" href="translators-note.xhtml" media-type="application/xhtml+xml" />
+		<item id="editors-note" href="editors-note.xhtml" media-type="application/xhtml+xml" />
+		<item id="app1" href="app1.xhtml" media-type="application/xhtml+xml" />
+		<item id="app2" href="app2.xhtml" media-type="application/xhtml+xml" />
+		<item id="glossary" href="glossary.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch1" href="ch1.xhtml"  media-type="application/xhtml+xml" />
+	</manifest>
+
+	<spine>
+		<itemref idref="toc" />
+		<itemref idref="foreword" />
+		<itemref idref="who-is" />
+		<itemref idref="translators-note" />
+		<itemref idref="editors-note" />
+		<itemref idref="ch1" />
+
+
+		<itemref idref="app1" />
+		<itemref idref="app2" />
+		<itemref idref="glossary" />
+	</spine>
+	<guide />
+</package>
