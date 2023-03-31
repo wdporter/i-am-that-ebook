@@ -157,7 +157,7 @@ troubled was his life and how limited its fruits. How utterly dependent is the
 personality of man and how indifferent is its world. And yet we love it and 
 protect it for its very insignificance.</p>
 
-<p><b>Q:</b> The war is on and there is chaös and you are being asked to take 
+<p><b>Q:</b> The war is on and there is chaos and you are being asked to take 
 charge of a feeding centre. You are given what is needed; it is only a 
 question of getting through the job. Will you refuse it?</p>
 

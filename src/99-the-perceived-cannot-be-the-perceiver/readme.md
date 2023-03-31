@@ -204,7 +204,7 @@ groping is full of promise. Your very searching is the finding. You cannot fail.
 <p><b>Q:</b> Because we are disintegrated, we suffer.</p>
 
 <p><b>M:</b> We shall suffer as long as our thoughts and actions are prompted by desires and fears. See 
-their futility, and the danger and chaös they create will subside. Don’t try to reform yourself; just see 
+their futility, and the danger and chaos they create will subside. Don’t try to reform yourself; just see 
 the futility of all change. The changeful keeps on changing while the changeless is waiting. Do not 
 expect the changeful to take you to the changeless — it can never happen. Only when the very idea 
 of changing is seen as false and abandoned can the changeless can come into its own.</p>

@@ -58,7 +58,7 @@ Purity of body and clarity of mind, non-violence and selflessness in life are es
 <p><b>Q:</b> Are there entities in Reality?</p>
 
 <p><b>M:</b> Identity is Reality, Reality is identity. 
-Reality is not shapeless mass, a wordless chaös. 
+Reality is not shapeless mass, a wordless chaos. 
 It is powerful, aware, blissful; compared to it your life is like a candle to the sun.</p>
 
 <p><b>Q:</b> By the grace of God and your teacher you lost all desire and fear and reached the immovable state. 

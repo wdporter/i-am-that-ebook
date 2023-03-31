@@ -154,7 +154,7 @@ data-tippy-content="Motivity, activity, energy. One of the three
 <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and 
 <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</a>, the forces of 
 darkness and despair. In *sattva* there is always change and progress, in 
-*rajas* there is change and regress, while *tamas* stands for chaös. The three 
+*rajas* there is change and regress, while *tamas* stands for chaos. The three 
 *guna*s play eternally against each other — it is a fact and there can be no 
 quarrel with a fact.</p>
 

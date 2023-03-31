@@ -161,7 +161,7 @@ depends on how the words are put together, but there must be somebody to put
 them together — meaningfully. By drawing words at random, the *Ramayana*, 
 *Mahabharata* and *Bhagavata* could never be produced. The theory of 
 accidental emergence is not tenable. The origin of the meaningful must be 
-beyond it. What is that power that creates order out of chaös? Living is more 
+beyond it. What is that power that creates order out of chaos? Living is more 
 than being, and consciousness is more than living. Who is the conscious living 
 being?</p>
 
