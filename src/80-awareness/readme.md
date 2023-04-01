@@ -202,7 +202,7 @@ and pure creation — nameless, formless, silent and yet absolutely real,
 powerful, effective. Their being indescribable does not affect them in the 
 least. While they are unconscious, they are essential. The conscious cannot 
 change fundamentally; it can only modify. Any thing, to change, must pass 
-through death, through obscuration and dissolution. Gold jewelry must be 
+through death, through obscuration and dissolution. Gold jewellery must be 
 melted down before it is cast into another shape. What refuses to die cannot 
 be reborn.</p>
 

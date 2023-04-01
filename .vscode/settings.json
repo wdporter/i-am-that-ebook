@@ -5,12 +5,14 @@
 		"editor.fontSize": 18,
 		"editor.tabSize": 4,
 		"editor.fontLigatures": false,
+		"spellright.groupDictionaries": false,
 		"spellright.language": [
-			"en"
+			"en-AU"
 		],
 		"spellright.documentTypes": [
 			"markdown",
 			"latex",
-			"html"
+			"html",
+			"jsonc"
 		]
 }
