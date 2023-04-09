@@ -75,7 +75,7 @@ My helplessness and dullness are a part of it.</p>
 <p><b>M:</b> Good enough. 
 Look at yourself steadily — it is enough. 
 The door that locks you in is also the door that lets you out. 
-The ‘I am’ is the door. 
+The “I am” is the door. 
 Stay at it until it opens. 
 As a matter of fact, it is open, only you are not at it. 
 You are waiting at the nonexistent painted doors, which will never open.</p>
@@ -242,7 +242,7 @@ Not only the conscious, but the unconscious as well, should be taken care of in 
 
 <p><b>Q:</b> How does one attend to the unconscious?</p>
 
-<p><b>M:</b> Keep the ‘I am’ in the focus of awareness; remember that you *are*, watch yourself ceaselessly and the unconscious will flow into the conscious without any special effort on your part. 
+<p><b>M:</b> Keep the “I am” in the focus of awareness; remember that you <em>are</em>, watch yourself ceaselessly and the unconscious will flow into the conscious without any special effort on your part. 
 Wrong desires and fears, false ideas, social inhibitions are blocking and preventing its free interplay with the conscious. 
 Once free to mingle, the two become one and the one becomes all. 
 The person merges into the witness, the witness into awareness, awareness into pure being, yet identity is not lost, only its limitations are lost. 
@@ -299,7 +299,7 @@ The sun of awareness must rise first — all else will follow.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

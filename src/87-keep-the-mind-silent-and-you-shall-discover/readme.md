@@ -13,7 +13,7 @@ hiding the building under construction. Of the architect, the design, the
 plans, the purpose — I know nothing. Some activity is going on, things are 
 happening; that is all I can say. I am that scaffolding, some thing very 
 flimsy and short-lived. When the building is ready, the scaffolding will be 
-dismantled and removed. The ‘I am’ and ‘What am I?’ are of no importance 
+dismantled and removed. The “I am” and ‘What am I?’ are of no importance 
 because once the building is ready, the ‘I’ will go as a matter of course, 
 leaving no questions about itself to answer.</p>
 
@@ -76,7 +76,7 @@ manifested; what you call ‘consciousness’ will also be manifested in time;
 beyond consciousness altogether lies the unmanifested. And beyond all and 
 pervading all is the heart of being, which beats steadily — 
 manifested–unmanifested, manifested–unmanifested (<span 
-data-tippy-content="Manifested condition with the three <em>guna</em>s, 
+href="Manifested condition with the three <em>guna</em>s, 
 qualities — <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. The Supreme 
 Absolute conceived of as possessing qualities like love, mercy etc., as 
 distinguished from the undifferentiated Absolute of the <em>Advaita 
@@ -84,7 +84,7 @@ Vedanta</em>.">saguna</a>–<a href="The unconditioned,
 without form, qualities or attributes.">nirguna</a>).</p>
 
 <p><b>Q:</b> On the verbal level, it sounds all right. I can visualise myself 
-as the seed of being, a point in consciousness, with my sense ‘I am’ 
+as the seed of being, a point in consciousness, with my sense “I am” 
 pulsating, appearing and disappearing alternately. But what am I to do to 
 realise it as a fact, to go beyond into the changeless, wordless Reality?</p>
 
@@ -92,14 +92,14 @@ realise it as a fact, to go beyond into the changeless, wordless Reality?</p>
 away.</p>
 
 <p><b>Q:</b> Why then all these exhortations to practice <span 
-data-tippy-content="One of the six systems of the Hindu philosophy 
+href="One of the six systems of the Hindu philosophy 
 (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which 
 the individual spirit (<em>jivatma</em>) can be joined or united with the 
 universal spirit (<em>Paramatma</em>).">yoga</a> and seek reality? They 
 make me feel empowered and responsible, while in fact it is time that does all.</p>
 
-<p><b>M:</b> This is the end of *yoga* — to realise independence. All that 
-happens, happens in and to the mind, not to the source of the ‘I am’. Once you 
+<p><b>M:</b> This is the end of <i>yoga</i> — to realise independence. All that 
+happens, happens in and to the mind, not to the source of the “I am”. Once you 
 realise that all happens by itself (call it destiny, the will of God or mere 
 accident), you remain as witness only, understanding and enjoying, but not 
 perturbed.</p>
@@ -133,7 +133,7 @@ witness only.</p>
 
 <p><b>M:</b> It is because you think yourself big enough to be affected by the 
 world. It is not so. You are so small that nothing can pin you down. It is 
-your mind that gets caught, not you. Know yourself as you *are* — a mere point 
+your mind that gets caught, not you. Know yourself as you <em>are</em> — a mere point 
 in consciousness, dimensionless and timeless. You are like the point of the 
 pencil — by mere contact with you, the mind draws its picture of the world. 
 You are single and simple — the picture is complex and extensive. Don’t be 
@@ -151,10 +151,10 @@ Withdraw your belief in its reality and it will dissolve like a dream. Time
 can bring down mountains; much more can be done by you who are the timeless 
 source of time. For without memory and expectation there can be no time.</p>
 
-<p><b>Q:</b> Is the ‘I am’ the Ultimate?</p>
+<p><b>Q:</b> Is the “I am” the Ultimate?</p>
 
 <p><b>M:</b> Before you can say, “I am”, you must be there to say it. Being 
-need not be self-conscious. You need not know to be, but you must *be* to know.</p>
+need not be self-conscious. You need not know to be, but you must <em>be</em> to know.</p>
 
 <p><b>Q:</b> Sir, I am getting drowned in a sea of words! I can see that all 
 depends on how the words are put together, but there must be somebody to put 
@@ -187,7 +187,7 @@ silent and you shall discover.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

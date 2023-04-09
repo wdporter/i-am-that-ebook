@@ -94,7 +94,7 @@ does not apply.</p>
 ending of suffering. The cause of suffering is dependence and independence is the remedy. *Yoga* is 
 the science and the art of self-liberation through self-understanding.</p>
 
-<p><b>Q:</b> I do not think I am fit for *yoga*.</p>
+<p><b>Q:</b> I do not think I am fit for <i>yoga</i>.</p>
 
 <p><b>M:</b> What else are you fit for? All your going and coming, seeking pleasure, loving and hating — all 
 this shows that you struggle against limitations, self-imposed or accepted. In your ignorance you 
@@ -109,7 +109,7 @@ power to bring it into the now.</p>
 <p><b>M:</b> In a forest only some of the trees are in full bloom at a given moment, yet every one will have its 
 turn. Sooner or later your physical and mental resources will come to an end. What will you do then? 
 Despair? All right, despair. You will get tired of despairing and begin to question. At that moment, 
-you will be fit for conscious *yoga*.</p>
+you will be fit for conscious <i>yoga</i>.</p>
 
 <p><b>Q:</b> I find all this seeking and brooding most unnatural.</p>
 
@@ -117,7 +117,7 @@ you will be fit for conscious *yoga*.</p>
 normal. What it means to be natural or normal you do not know, nor do you know that you do not 
 know. 
 At present you are drifting and therefore in danger, for to a drifter, any moment anything may 
-happen. It would be better to wake up and see your situation. That you *are* — you know. What you 
+happen. It would be better to wake up and see your situation. That you <em>are</em> — you know. What you 
 are — you don’t know. Find out what you are.</p>
 
 <p><b>Q:</b> Why is there so much suffering in the world?</p>
@@ -134,7 +134,7 @@ It is only with separateness and self-seeking that real suffering appears in the
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

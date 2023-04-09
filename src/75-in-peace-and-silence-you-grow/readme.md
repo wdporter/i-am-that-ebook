@@ -138,7 +138,7 @@ What is the way for quieting it?</p>
 Take my own case: My *guru* ordered me to attend to the sense ’I am’ and to give attention to nothing else. 
 I just obeyed. 
 I did not follow any particular course of breathing, meditation or study of scriptures. 
-Whatever happened, I would turn away my attention from it and remain with the sense ‘I am’. 
+Whatever happened, I would turn away my attention from it and remain with the sense “I am”. 
 It may look too simple, even crude. 
 My only reason for doing it was that my *guru* told me so. 
 Yet it worked! 
@@ -148,7 +148,7 @@ Just turn away from all that occupies the mind; do whatever work you must comple
 
 In the end you reach a state of non-grasping, of joyful non-attachment, of inner ease and freedom indescribable, yet wonderfully real.</p>
 
-<p><b>Q:</b> When a truth-seeker earnestly practices his *yoga*s, does his inner *guru* guide and help him or does he leave him to his own resources, just waiting for the outcome?</p>
+<p><b>Q:</b> When a truth-seeker earnestly practices his <i>yoga</i>s, does his inner *guru* guide and help him or does he leave him to his own resources, just waiting for the outcome?</p>
 
 <p><b>M:</b> All happens by itself. 
 Neither the seeker. nor the *guru* do anything. 
@@ -234,7 +234,7 @@ Words based on truth, if fully tested, have their own power.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

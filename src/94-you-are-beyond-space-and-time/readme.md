@@ -140,9 +140,9 @@ describable.</p>
 
 <p><b>Q:</b> Who is aware in awareness?</p>
 
-<p><b>M:</b> When there is a person, there is also consciousness. ‘I am’, mind, consciousness denote the 
+<p><b>M:</b> When there is a person, there is also consciousness. “I am”, mind, consciousness denote the 
 same state. If you say, “I am aware”, it only means, “I am conscious of thinking about being aware”. 
-There is no ‘I am’ in awareness.</p>
+There is no “I am” in awareness.</p>
 
 <p><b>Q:</b> What about witnessing?</p>
 
@@ -188,7 +188,7 @@ compulsions. To act from desire and fear is bondage, to act from love is freedom
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

@@ -98,11 +98,11 @@ sequence of pictures on the ever-present screen. Without the light and the
 screen there can be no picture. To know the picture as the play of light on 
 the screen gives freedom from the idea that the picture is real. All you have 
 to do is to understand that you love the self and the self loves you and that 
-the sense ‘I am’ is the link between you both, a token of identity in spite of 
-apparent diversity. Look at the ‘I am’ as a sign of love between the inner and 
+the sense “I am” is the link between you both, a token of identity in spite of 
+apparent diversity. Look at the “I am” as a sign of love between the inner and 
 the outer, the real and the appearance. Just like in a dream all is different 
 except the sense of ‘I’, which enables you to say, “I dreamt”, so does the 
-sense of ‘I am’ enable you to say, “I am my real Self again”. I do nothing, 
+sense of “I am” enable you to say, “I am my real Self again”. I do nothing, 
 nor is anything done to me. I am what I am and nothing can affect me. I appear 
 to depend on everything, but in fact all depends on me.</p>
 

@@ -25,7 +25,7 @@ of reality and whoëver enters it is carried along.</p>
 
 <p><b>Q:</b> Does it imply acceptance by a living master belonging to the same tradition?</p>
 
-<p><b>M:</b> Those who practise the <a href="The practice which produces success, <em>siddhi</em>.">sadhana</a> of focussing their minds on ‘I am’ may feel related to others 
+<p><b>M:</b> Those who practise the <a href="The practice which produces success, <em>siddhi</em>.">sadhana</a> of focussing their minds on “I am” may feel related to others 
 who have followed the same *sadhana* and succeeded. They may decide to verbalise their sense of 
 kinship by calling themselves *Navanath*s. It gives them the pleasure of belonging to an established 
 tradition.</p>
@@ -81,7 +81,7 @@ come into being.</p>
 
 <p><b>Q:</b> I cannot make out whether I am the creature or the creator of the universe.</p>
 
-<p><b>M:</b> ‘I am’ is an ever-present fact, while ‘I am created’ is an idea. Neither God nor the universe have 
+<p><b>M:</b> “I am” is an ever-present fact, while ‘I am created’ is an idea. Neither God nor the universe have 
 come to tell you that they have created you. The mind obsessed by the idea of causality invents 
 creation and then wonders, “who is the creator?”. The mind itself is the creator. Even this is not quite 
 true, for the created and its creator are one. The mind and the world are not separate. Do understand that what you think to be the world is your own mind.</p>
@@ -113,7 +113,7 @@ gives no cause for condemnation or pity.</p>
 <p><b>M:</b> By my becoming one with him, he becomes one with me. It is not a conscious process; it 
 happens entirely by itself. None of us can help it. What needs changing shall change anyhow; 
 it is enough to know oneself as one is, here and now. Intense and methodical investigation into one’s 
-mind is *yoga*.
+mind is <i>yoga</i>.
  
 **Q:</b> What about the chains of destiny forged by sin?</p>
 
@@ -225,7 +225,7 @@ it happen that the *Maharaj*, who has come to me in my dreams, has not succeeded
 up? He keeps on urging and reminding, but the dream continues.</p>
 
 <p><b>M:</b> It is because you have not really understood that you are dreaming. This is the essence of 
-bondage — the mixing of the real with unreal. In your present state, only the sense ‘I am’ refers to 
+bondage — the mixing of the real with unreal. In your present state, only the sense “I am” refers to 
 reality; the ‘what’ and the ‘how I am’ are illusions imposed by destiny, or accident.</p>
 
 <p><b>Q:</b> When did the dream begin?</p>
@@ -286,7 +286,7 @@ That is enough.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

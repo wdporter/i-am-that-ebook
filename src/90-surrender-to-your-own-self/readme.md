@@ -68,7 +68,7 @@ garment.</p>
 
 <p><b>M:</b> Human beings die every second; the fear and the agony of dying hangs over the world like a cloud. 
 No wonder you too are afraid. 
-But once you know that the body alone dies and not the continuity of memory and the sense of ‘I am’ reflected in it, you are afraid no longer.</p>
+But once you know that the body alone dies and not the continuity of memory and the sense of “I am” reflected in it, you are afraid no longer.</p>
 
 <p><b>Q:</b> Well, let us die and see.</p>
 
@@ -128,9 +128,9 @@ Yourself as a responsive person within a female body?</p>
 
 <p><b>Q:</b> There is a body and there is compassion and there is memory and a number of things and attitudes; collectively they may be called a person.</p>
 
-<p><b>M:</b> Including the ‘I am’ idea?</p>
+<p><b>M:</b> Including the “I am” idea?</p>
 
-<p><b>Q:</b> The ‘I am’ is like a basket that holds the many things that make a person.</p>
+<p><b>Q:</b> The “I am” is like a basket that holds the many things that make a person.</p>
 
 <p><b>M:</b> Or, rather, it is the willow of which the basket is woven. 
 When you think of yourself as a women, do you mean that you are a women, or that your body is described as female?</p>
@@ -155,7 +155,7 @@ We understand.</p>
 
 <p><b>M:</b> It is very often so with Americans and Europeans. 
 After a stretch of *sadhana* they become charged with energy and frantically seek an outlet. 
-They organise communities, become teachers of *yoga*, marry, write books — anything except keeping quiet and turning their energies within to find the source of the inexhaustible power and learn the art of keeping it under control.</p>
+They organise communities, become teachers of <i>yoga</i>, marry, write books — anything except keeping quiet and turning their energies within to find the source of the inexhaustible power and learn the art of keeping it under control.</p>
 
 <p><b>Q:</b> I admit that now I want to go back and live a very active life, because I feel full of energy.</p>
 
@@ -232,7 +232,7 @@ Unafraid, you will not be unhappy, nor will you seek happiness.
 In the mirror of your mind, all kinds of pictures appear and disappear. 
 Knowing that they are entirely your own creations, watch them silently come and go.
 Be alert, but not perturbed. 
-This attitude of silent observation is the very foundation of *yoga*. 
+This attitude of silent observation is the very foundation of <i>yoga</i>. 
 You see the picture, but you are not the picture.</p>
 
 <p><b>Q:</b> I find that the thought of death frightens me because I do not want to be reborn. 
@@ -313,7 +313,7 @@ Surrender to your own self, of which everything is an expression.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

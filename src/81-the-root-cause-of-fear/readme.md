@@ -136,13 +136,13 @@ grow in sunlight, but the sun does not grow. By themselves both the body and
 the witness are motionless, but when brought together in the mind, both appear 
 to move.</p>
 
-<p><b>Q:</b> Yes, I can see that what moves and changes is the ‘I am’ only. Is 
-the ‘I am’ needed at all?</p>
+<p><b>Q:</b> Yes, I can see that what moves and changes is the “I am” only. Is 
+the “I am” needed at all?</p>
 
 <p><b>M:</b> Who needs it? It is there — now. It had a beginning, it will have 
 an end.</p>
 
-<p><b>Q:</b> What remains when the ‘I am’ goes?</p>
+<p><b>Q:</b> What remains when the “I am” goes?</p>
 
 <p><b>M:</b> What does not come and go remains. It is the ever-greedy mind that 
 creates ideas of progress and evolution towards perfection. It disturbs and 
@@ -232,7 +232,7 @@ meditation.</p>
 
 <p><b>Q:</b> What exactly do you want me to do?</p>
 
-<p><b>M:</b> Give your heart and mind to brooding over the ‘I am’: what is it, 
+<p><b>M:</b> Give your heart and mind to brooding over the “I am”: what is it, 
 how is it, what is its source, its life, its meaning. It is very much like 
 digging a well. You reject all that is not water, till you reach the 
 life-giving spring.</p>
@@ -263,7 +263,7 @@ discover that you do not need them; you are beyond.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

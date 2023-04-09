@@ -13,7 +13,7 @@ improving on it.</p>
 <p><b>Maharaj:</b> You are welcome to stay in your contentment, but can you? Youth, vigour, money — all 
 will pass away sooner than you expect. Sorrow, shunned so far, will pursue you. If you want to be 
 beyond suffering, you must meet it half way and embrace it. Relinquish your habits and addictions, 
-live a simple and sober life, don’t hurt a living being; this is the foundation of *yoga*. To find reality 
+live a simple and sober life, don’t hurt a living being; this is the foundation of <i>yoga</i>. To find reality 
 you must be real in the smallest daily action; there can be no deceit in the search for truth. You say 
 you find your life enjoyable. Maybe it is — at present. But who enjoys it?</p>
 
@@ -73,7 +73,7 @@ ideas you have about your self. Both faith and reason tell you that you are neit
 desires and fears, nor are you the mind with its fanciful ideas, nor the role society compels you to 
 play, the person you are supposed to be. Give up the false and the true will come into its own.
 
-You say you want to know your self. You *are* your self — you cannot be anything but what you are. 
+You say you want to know your self. You <em>are</em> your self — you cannot be anything but what you are. 
 Is knowing separate from being? Whatever you can know with your mind is of the mind, not you; 
 about yourself you can only say, “I am, I am aware, I like it”.</p>
 
@@ -141,7 +141,7 @@ clear and there will be peace and joy. You know so many things about yourself, b
 do not know. Find out who you are, the knower of the known. Look within diligently; remember to 
 remember that the perceived cannot be the perceiver. Whatever you see, hear or think of, 
 remember — you are not what happens, you are he to whom it happens. Delve deeply into the 
-sense ‘I am’ and you will surely discover that the perceiving centre is universal, as universal as the 
+sense “I am” and you will surely discover that the perceiving centre is universal, as universal as the 
 light that illumines the world. All that happens in the universe happens to you, the silent witness. On 
 the other hand, whatever is done is done by you, the universal and inexhaustible energy.</p>
 
@@ -159,11 +159,11 @@ you know. Between knowing and being there is no gap.</p>
 
 <p><b>M:</b> By all means use your mind to know your mind. It is perfectly legitimate and also the best 
 preparation for going beyond the mind. Being, knowing and enjoying is your own. First realise your 
-*own* being. This is easy because the sense ‘I am’ is always with you. Then meet yourself as the 
+*own* being. This is easy because the sense “I am” is always with you. Then meet yourself as the 
 knower, apart from the known. Once you know yourself as pure being, the ecstasy of freedom is 
 your own.</p>
 
-<p><b>Q:</b> Which *yoga* is this?</p>
+<p><b>Q:</b> Which <i>yoga</i> is this?</p>
 
 <p><b>M:</b> Why worry? What makes you come here is your being displeased with your life as you know it, 
 the life of your body and mind. You may try to improve them through controlling and bending them 
@@ -171,7 +171,7 @@ to an ideal, or you may cut the knot of self-identification altogether and look 
 as something that happens without committing you in any way.</p>
 
 <p><b>Q:</b> Shall I call the way of control and discipline *raja yoga* and the way of detachment <a href="Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (<em>jna</em>, to know; <em>jnani</em>, the knower).">jnana</a>
-*yoga*? And the worship of an ideal <a href="Devotion, adoration. Hence <em>bhakta</em>, a devotee.">bhakti</a> *yoga*?</p>
+<i>yoga</i>? And the worship of an ideal <a href="Devotion, adoration. Hence <em>bhakta</em>, a devotee.">bhakti</a> <i>yoga</i>?</p>
 
 <p><b>M:</b> If it pleases you. Words indicate, but do not explain. What I teach is the ancient and simple way 
 of liberation through understanding. Understand your own mind and its hold on you will snap. The 
@@ -210,7 +210,7 @@ expect the changeful to take you to the changeless — it can never happen. Only
 of changing is seen as false and abandoned can the changeless can come into its own.</p>
 
 <p><b>Q:</b> Everywhere I go, I am told that I must change profoundly before I can see the real. This 
-process of deliberate, self-imposed change is called *yoga*.</p>
+process of deliberate, self-imposed change is called <i>yoga</i>.</p>
 
 <p><b>M:</b> All change affects the mind only. To be what you are, you must go beyond the mind, into your 
 own being. It is immaterial what the mind that you leave behind is, provided you leave it behind for 
@@ -228,8 +228,8 @@ it. Fear can always delay it, until another opportunity arises.</p>
 <p><b>Q:</b> I thought there is always a chance.</p>
 
 <p><b>M:</b> In theory — yes. In practice, a situation must arise when all the factors necessary for self-realisation 
-are present. This need not discourage you. Your dwelling on the fact of ‘I am’ will soon 
-create another chance, for attitude attracts opportunity. All you know is second-hand. Only ‘I am’ is 
+are present. This need not discourage you. Your dwelling on the fact of “I am” will soon 
+create another chance, for attitude attracts opportunity. All you know is second-hand. Only “I am” is 
 first-hand and needs no proofs. Stay with it.
 
 
@@ -237,7 +237,7 @@ first-hand and needs no proofs. Stay with it.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

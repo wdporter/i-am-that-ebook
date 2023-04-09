@@ -112,7 +112,7 @@ the sense of separation is weak and responsibility diffused.</p>
 <p><b>Q:</b> An individual with a weak sense of personality — is he nearer 
 self-realisation?</p>
 
-<p><b>M:</b> Take the case of a young child. The sense of ‘I am’ is not yet 
+<p><b>M:</b> Take the case of a young child. The sense of “I am” is not yet 
 formed; the personality is rudimentary. The obstacles to self knowledge are 
 few, but the power and the clarity of awareness, its width and depth are 
 lacking. In the course of years awareness will grow stronger, but also the 
@@ -193,10 +193,10 @@ and happy. This is the only practical solution. If you do not want it, fight.</p
 qualities. In <em>Samkhya</em> philosophy the three attributes of the cosmic 
 substance (<em>prakriti</em>) are: illuminating (<em>sattva</em>), activating 
 (<em>rajas</em>) and restraining (<em>tamas</em>).">guna</a>s. Where <span 
-data-tippy-content="Darkness, inertia, passivity. One of the three 
+href="Darkness, inertia, passivity. One of the three 
 constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, 
 <em>rajas</em> and <em>tamas</em>.">tamas</a> and <span 
-data-tippy-content="Motivity, activity, energy. One of the three 
+href="Motivity, activity, energy. One of the three 
 <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and 
 <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</a> predominate, there 
 must be war. Where <a href="Being, existence, true essence. 
@@ -278,7 +278,7 @@ brings suffering to our door.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

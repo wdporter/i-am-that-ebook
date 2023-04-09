@@ -7,7 +7,7 @@ with a bundle of memories and habits. This steady resistance against the unneces
 of success.</p>
 
 <p><b>Maharaj:</b> Can you sit on the floor? Do you need a pillow? Have you any questions to ask? Not that 
-you need to ask, you can as well be quiet. To be, just *be*, is important. You need not ask anything, 
+you need to ask, you can as well be quiet. To be, just <em>be</em>, is important. You need not ask anything, 
 nor do anything. Such apparently lazy way of spending time is highly regarded in India. It means 
 that for the time being, you are free from the obsession with ‘what next’. When you are not in a hurry 
 and the mind is free from anxieties, it becomes quiet, and in the silence something may be heard 
@@ -16,10 +16,10 @@ we are trying to do here is to bring our minds into the right state for understa
 
 <p><b>Questioner:</b> How do we learn to cut out worries?</p>
 
-<p><b>M:</b> You need not worry about your worries. Just *be*. Do not try to be quiet; do not make ‘being quiet’ 
+<p><b>M:</b> You need not worry about your worries. Just <em>be</em>. Do not try to be quiet; do not make ‘being quiet’ 
 into a task to be performed. Don’t be restless about ‘being quiet’, miserable about  ‘being happy’. 
 Just be aware that you are and remain aware — don’t say:, “yes, I am; what next?”. There is no ‘next’
-in ‘I am’. It is a timeless state.</p>
+in “I am”. It is a timeless state.</p>
 
 <p><b>Q:</b> If it is a timeless state, it will assert itself anyhow.</p>
 
@@ -53,7 +53,7 @@ sterile.</p>
 
 <p><b>Q:</b> Then what am I to do?</p>
 
-<p><b>M:</b> Try to *be*, only to *be*. The all-important word is ‘try’. Allot enough time daily for sitting quietly and 
+<p><b>M:</b> Try to <em>be</em>, only to <em>be</em>. The all-important word is ‘try’. Allot enough time daily for sitting quietly and 
 trying, just trying, to go beyond the personality with its addictions and obsessions. Don’t ask how; it 
 cannot be explained. You just keep on trying until you succeed. If you persevere, there can be no 
 failure. What matters supremely is sincerity, earnestness; you must really have had a surfeit of being 
@@ -63,10 +63,10 @@ of success.
 
 After all, you are what you are every moment of your life, but you are never conscious of it except, 
 maybe, at the point of awakening from sleep. All you need is to be aware of being, not as a verbal 
-statement, but as an ever-present fact. The a awareness that you *are* will open your eyes to what 
+statement, but as an ever-present fact. The a awareness that you <em>are</em> will open your eyes to what 
 you are. It is all very simple. First of all, establish a constant contact with your self; be with yourself 
 all the time. Into self-awareness all blessings flow. Begin as a centre of observation, deliberate 
-cognisance, and grow into a centre of love in action. ‘I am’ is a tiny seed which will grow into a 
+cognisance, and grow into a centre of love in action. “I am” is a tiny seed which will grow into a 
 mighty tree — quite naturally, without a trace of effort.</p>
 
 <p><b>Q:</b> I see so much evil in myself. Must I not change it?</p>
@@ -175,7 +175,7 @@ People come here to learn about the actual existence of such a state, the obstac
 emergence, and, once perceived, the art of stabilising it in consciousness so that there is no clash 
 between understanding and living. The state itself is beyond the mind and need not be learned. The 
 mind can only focus the obstacles; seeing an obstacle as an obstacle is effective because it is the 
-mind acting on the mind. Begin from the beginning; give attention to the fact that you *are*. At no time 
+mind acting on the mind. Begin from the beginning; give attention to the fact that you <em>are</em>. At no time 
 can you say, “I was not”; all you can say is, “I do not remember”. You know how unreliable memory is. 
 Accept that, engrossed in petty personal affairs, you have forgotten what you are; try to bring back 
 the lost memory through the elimination of the known. You cannot be told what will happen, nor is it 
@@ -247,7 +247,7 @@ glowing with loving kindness and deep wisdom.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

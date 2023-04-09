@@ -18,15 +18,15 @@ problem does not change — the problem of suffering and the ending of suffering
 
 <p><b>Q:</b> The other day, seven young foreigners turned up asking for a place 
 to sleep for a few nights. They came to see their <span 
-data-tippy-content="Spiritual teacher, preceptor.">guru</a> who was 
+href="Spiritual teacher, preceptor.">guru</a> who was 
 lecturing in Bombay. I met him — a very pleasant looking young man is he — 
 apparently very matter-of-fact and efficient, but with an atmosphere of peace 
 and silence about him. His teaching is traditional, with stress on <span 
-data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of 
+href="Action or “the fruits of action”. <em>Karma</em> is of 
 three kinds: <em>sanchita</em> (accumulated from previous births), 
 <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the 
 present life) and <em>agami</em> (the current <em>karma</em> the result of 
-which will fructify in future).">karma</a>-*yoga*, selfless work, service 
+which will fructify in future).">karma</a>-<i>yoga</i>, selfless work, service 
 of the *guru* and so forth. Like the *[Bhagavad] Gita*, he says that selfless 
 work will result in salvation. He is full of ambitious plans — training 
 workers who will start spiritual centres in many countries. It seems he gives 
@@ -49,8 +49,8 @@ cruelty. After all, all wars are made ‘in the name of God’. The entire histo
 of mankind is a succession of ‘holy wars’. One is never so impersonal as in 
 war!</p>
 
-<p><b>M:</b> To insist, to resist, are contained in the will to *be*. Remove 
-the will to *be* and what remains? Existence and non-existence relate to 
+<p><b>M:</b> To insist, to resist, are contained in the will to <em>be</em>. Remove 
+the will to <em>be</em> and what remains? Existence and non-existence relate to 
 something in space and time — here and now, there and then, which again are in 
 the mind. The mind plays a guessing game; it is ever uncertain, anxiety-ridden 
 and restless. You resent being treated as a mere instrument of some god or 
@@ -72,8 +72,8 @@ love and trust, without which there is no discipleship.</p>
 <p><b>Q:</b> What made you decide to become a teacher?</p>
 
 <p><b>M:</b> I was made into one by being called so. Who am I to teach and 
-whom? What I am, you are, and what you are — I am. The ‘I am’ is common to us 
-all; beyond the ‘I am’ there is the immensity of light and love. We do not see 
+whom? What I am, you are, and what you are — I am. The “I am” is common to us 
+all; beyond the “I am” there is the immensity of light and love. We do not see 
 it because we look elsewhere; I can only point at the sky; seeing the star is 
 your own work. Some take more time before they see the star, some take less; 
 it depends on the clarity of their vision and their earnestness in searching. 
@@ -146,7 +146,7 @@ mine or yours — everything is ours. Just be one with yourself and you will be
 one with all, at home in the entire universe.</p>
 
 <p><b>Q:</b> You mean to say that all these glories will come with the mere 
-dwelling on the feeling ‘I am’?</p>
+dwelling on the feeling “I am”?</p>
 
 <p><b>M:</b> It is the simple that is certain, not the complicated. Somehow, 
 people do not trust the simple, the easy, the always available. Why not give 
@@ -191,7 +191,7 @@ spiritual teacher.</p>
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

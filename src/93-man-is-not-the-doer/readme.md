@@ -75,7 +75,7 @@ difficult and time-consuming courses?</p>
 
 <p><b>M:</b> The <a href="Spiritual teacher, preceptor.">guru</a>s usually teach the *sadhana*s by which they themselves have reached their goal, 
 whatever their goal may be. This is but natural, for their own *sadhana* they know intimately. I was 
-taught to give attention to my sense of ‘I am’ and I found it supremely effective. Therefore, I can 
+taught to give attention to my sense of “I am” and I found it supremely effective. Therefore, I can 
 speak of it with full confidence. But often people come with their bodies, brain and minds so 
 mishandled, perverted and weak that the state of formless attention is beyond them. In such cases, 
 some simpler token of earnestness is appropriate. The repetition of a <a href="Incantation, hymn, an instrument of thought, ideal sounds visualised as letters and vocalised as syllables. A <em>mantra</em> is a group of words whose constant repetition produces specific results.">mantra</a>, or gazing at a picture 
@@ -129,7 +129,7 @@ only law he obeys is that of love.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

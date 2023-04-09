@@ -55,7 +55,7 @@ realisation will happen on its own?</p>
 <p><b>M:</b> So was I. But what was there to be amazed at? My teacher’s words 
 came true. So what? He knew me better than I knew myself, that is all. Why 
 search for causes? In the very beginning I was giving some attention and time 
-to the sense ‘I am’, but only in the beginning. Soon after my *guru* died — I 
+to the sense “I am”, but only in the beginning. Soon after my *guru* died — I 
 lived on. His words proved to be true. That is all. It is all one process. You 
 tend to separate things in time and then look for causes.</p>
 
@@ -231,7 +231,7 @@ quiet in your heart. Realised people are very quiet.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

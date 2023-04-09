@@ -10,7 +10,7 @@ and sleeping just as we do or otherwise?</p>
 <p><b>Maharaj:</b> All the three states are sleep to me. My waking state is 
 beyond them. As I look at you, you all seem asleep, dreaming up words of your 
 own. I am aware, for I imagine nothing. It is not <span 
-data-tippy-content="Superconscious state, profound meditation, trance, 
+href="Superconscious state, profound meditation, trance, 
 rapturous absorption. A practice of <em>yoga</em> in which the seeker 
 (<em>sadhaka</em>) becomes one with the object of his meditation 
 (<em>sadhya</em>), thus attaining unqualified bliss. “<em>Samadhi</em> is a 
@@ -31,9 +31,9 @@ light of the shining Self into a diversified world. Thus I have understood
 your teaching. What I cannot grasp is how this subtle body arise in the first 
 instance?</p>
 
-<p><b>M:</b> It is created with the emergence of the ‘I am’ idea. The two are one.</p>
+<p><b>M:</b> It is created with the emergence of the “I am” idea. The two are one.</p>
 
-<p><b>Q:</b> How did the ‘I am’ appear?</p>
+<p><b>Q:</b> How did the “I am” appear?</p>
 
 <p><b>M:</b> In your world, everything must have a beginning and an end. If it 
 does not, you call it eternal. In my view, there is no such thing as a 
@@ -111,12 +111,12 @@ be.</p>
 <p><b>M:</b> Reality is common to all. Only the false is personal.</p>
 
 <p><b>Q:</b> As I watch the <span 
-data-tippy-content="Spiritual aspirant.">sadhaka</a>s and enquire into the 
+href="Spiritual aspirant.">sadhaka</a>s and enquire into the 
 theories by which they live, I find they have merely replaced material 
 cravings with ‘spiritual’ ambitions. From what you tell us, it looks as if the 
 words ‘spiritual’ and ‘ambition’ are incompatible. If ‘spirituality’ implies 
 freedom from ambition, what will urge the seeker on? The <span 
-data-tippy-content="One who practices <em>yoga</em>.">yogi</a>s speak of 
+href="One who practices <em>yoga</em>.">yogi</a>s speak of 
 the desire for liberation as essential. Is it not the highest form of ambition?</p>
 
 <p><b>M:</b> Ambition is personal; liberation is from the personal. In 
@@ -210,12 +210,12 @@ to investigate. And there can be no salvation without investigation because
 non-investigation is the main cause of bondage.</p>
 
 <p><b>Q:</b> You say that the illusion of the world begins with the sense 
-‘I am’, but when I ask about the origin of the sense ‘I am’, you answer that 
+“I am”, but when I ask about the origin of the sense “I am”, you answer that 
 it has no origin, for on investigation it dissolves. What is solid enough to 
-build the world on cannot be mere illusion. The ‘I am’ is the only changeless 
+build the world on cannot be mere illusion. The “I am” is the only changeless 
 factor I am conscious of; how can it be false?</p>
 
-<p><b>M:</b> It is not the ‘I am’ that is false, but what you take yourself to 
+<p><b>M:</b> It is not the “I am” that is false, but what you take yourself to 
 be. I can see beyond the least shadow of doubt that you are not what you 
 believe yourself to be. Logic or no logic, you cannot deny the obvious. You 
 are nothing that you are conscious of. Apply yourself diligently to pulling 
@@ -226,14 +226,14 @@ mind must undo.</p>
 is. You may question the appearance, but not the fact. What is at the root of 
 the fact?</p>
 
-<p><b>M:</b> The ‘I am’ is at the root of all appearance and the permanent link 
-in the succession of events that we call life; but I am beyond the ‘I am’.</p>
+<p><b>M:</b> The “I am” is at the root of all appearance and the permanent link 
+in the succession of events that we call life; but I am beyond the “I am”.</p>
 
 <p><b>Q:</b> I have found that the realised people usually describe their state 
 in terms borrowed from their religion. You happen to be a Hindu, so you talk 
 of <a href="One of the gods of the Hindu trinity: Brahma, the 
 creator; Vishnu, the preserver; Shiva, the destroyer.">Brahma</a>, <span 
-data-tippy-content="One of the Gods of the Hindu trinity — Brahma, the 
+href="One of the Gods of the Hindu trinity — Brahma, the 
 creator; Vishnu, the preserver and Shiva, the destroyer.">Vishnu</a> and 
 <a href="One of the gods of the Hindu trinity — Brahma, the 
 creator; Vishnu, the preserver; and Shiva, the destroyer. Shiva actually means 
@@ -263,7 +263,7 @@ as they are empty of meaning, they suit my purpose.</p>
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

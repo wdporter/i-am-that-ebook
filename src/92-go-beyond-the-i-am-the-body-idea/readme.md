@@ -77,7 +77,7 @@ through all these experiences unscathed need not be afraid of anything! Yet I wa
 what use is such book to me?</p>
 
 <p><b>M:</b> Of no use, probably, since it does not attract you. Others may be impressed. People differ. But 
-all are faced with the fact of their own existence. ‘I am’ is the ultimate fact; ‘Who am I?’ is the 
+all are faced with the fact of their own existence. “I am” is the ultimate fact; ‘Who am I?’ is the 
 ultimate question to which everybody must find an answer.</p>
 
 <p><b>Q:</b> The same answer?</p>
@@ -126,7 +126,7 @@ a forester — protecting and regulating the immense vital urge of existence.</p
 engaged in living a life to his best capacity and knowledge; everyone is a disciple of the same *guru*.</p>
 
 <p><b>M:</b> You may say so. It may be so — potentially. But unless life is loved and trusted, followed with 
-eagerness and zest, it would be fanciful to talk of *yoga*, which is a movement in consciousness, 
+eagerness and zest, it would be fanciful to talk of <i>yoga</i>, which is a movement in consciousness, 
 awareness in action.</p>
 
 <p><b>Q:</b> Once I watched a mountain stream flowing between boulders. At each boulder the 
@@ -161,7 +161,7 @@ world is a home, not a prison.</p>
 <p><b>M:</b> What you see is nothing but yourself. Call it what you like; it does not change the fact. Through 
 the film of destiny your own light depicts pictures on the screen. You are the viewer, the light, the 
 picture and the screen. Even the film of destiny (<span 
-data-tippy-content="Destiny, <em>sanchita karma</em> (karma of past lives) 
+href="Destiny, <em>sanchita karma</em> (karma of past lives) 
 that has become the destiny in the present life.">prarabdha</a>) is self-selected and self-imposed. The 
 spirit is a sport and enjoys to overcome obstacles. The harder the task the deeper and wider his self-realisation.
 
@@ -170,7 +170,7 @@ spirit is a sport and enjoys to overcome obstacles. The harder the task the deep
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

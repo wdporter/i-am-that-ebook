@@ -10,10 +10,10 @@ attributes”.
 How do you know these things? 
 And what makes you say them?</p>
 
-<p><b>Maharaj:</b> I am only trying to describe the state before the ‘I am’ arose, but the state itself, being
+<p><b>Maharaj:</b> I am only trying to describe the state before the “I am” arose, but the state itself, being
 beyond the mind and its language, is indescribable.</p>
 
-<p><b>Q:</b> The ‘I am’ is the foundation of all experience. 
+<p><b>Q:</b> The “I am” is the foundation of all experience. 
 What you are trying to describe must also be an experience, limited and transitory. 
 You speak of yourself as immutable. 
 I hear the sound of the word, I remember its dictionary meaning, but the experience of being immutable I do not have. 
@@ -71,7 +71,7 @@ Once realised, it will deeply affect the changeable, while remaining unaffected 
 <p><b>Q:</b> How do you know that you are the witness?</p>
 
 <p><b>M:</b> I do not know, I am. 
-I am, because to *be* everything must be witnessed.</p>
+I am, because to <em>be</em> everything must be witnessed.</p>
 
 <p><b>Q:</b> Existence can be also accepted on hearsay.</p>
 
@@ -162,10 +162,10 @@ You are concerned with your own happiness and I am telling you that there is no 
 Happiness is never your own; it is where the ‘I’ is not. 
 I do not say it is beyond your reach; you have only to reach out beyond yourself and you will find it.</p>
 
-<p><b>Q:</b> If I have to go beyond myself, why did I get the ‘I am’ idea in the first instance?</p>
+<p><b>Q:</b> If I have to go beyond myself, why did I get the “I am” idea in the first instance?</p>
 
 <p><b>M:</b> The mind needs a centre to draw a circle. 
-The circle may grow bigger and with every increase there will be a change in the sense ‘I am’. 
+The circle may grow bigger and with every increase there will be a change in the sense “I am”. 
 A man who has taken himself in hand, a <a href="One who practices <em>yoga</em>.">yogi</a>, will draw a spiral, yet the centre will remain, however vast the spiral. 
 A day comes when the entire enterprise is seen as false and is given up. 
 The central point is no more and the universe becomes the centre.</p>
@@ -210,7 +210,7 @@ Go further and the unexpected will explode in you and shatter all.</p>
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

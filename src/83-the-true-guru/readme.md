@@ -74,9 +74,9 @@ proof of its attainment?</p>
 
 <p><b>M:</b> The knowledge of the real or the self is a state of mind. Teaching 
 another is a movement in duality. They concern the mind only; <span 
-data-tippy-content="Being, existence, true essence. In <em>yoga</em> the 
+href="Being, existence, true essence. In <em>yoga</em> the 
 quality of purity or goodness.">sattva</a> is a <span 
-data-tippy-content="Attributes, qualities. In <em>Samkhya</em> philosophy the 
+href="Attributes, qualities. In <em>Samkhya</em> philosophy the 
 three attributes of the cosmic substance (<em>prakriti</em>) are: illuminating 
 (<em>sattva</em>), activating (<em>rajas</em>) and restraining 
 (<em>tamas</em>).">guna</a> all the same.</p>
@@ -102,7 +102,7 @@ recognition, while reality is beyond the duality of the knower and the known.</p
 
 <p><b>M:</b> How misleading is your language! You assume, unconsciously, that 
 reality also is approachable through knowledge. And then you will bring in a 
-knower of reality beyond reality! Do understand that to *be*, reality need not 
+knower of reality beyond reality! Do understand that to <em>be</em>, reality need not 
 be known. Ignorance and knowledge are in the mind, not in the real.</p>
 
 <p><b>Q:</b> If there is no such thing as the knowledge of the real, then how 
@@ -136,7 +136,7 @@ perceivable is real.</p>
 
 <p><b>M:</b> This is the heart of the matter. As long as you believe that only 
 the outer world is real, you remain its slave. To become free, your attention 
-must be drawn to the ‘I am’, the witness. Of course, the knower and the known 
+must be drawn to the “I am”, the witness. Of course, the knower and the known 
 are one, not two; but to break the spell of the known, the knower must be 
 brought to the forefront. Neither is primary; both are reflections in memory 
 of the ineffable experience, ever-new and ever-now, untranslatable, quicker 
@@ -153,7 +153,7 @@ altogether wrong. It is not you who desires, fears and suffers, it is the
 person built on the foundation of your body by circumstances and influences. 
 You are not that person. This must be clearly established in your mind and 
 never lost sight of. Normally, it needs a prolonged <span 
-data-tippy-content="The practice which produces success, 
+href="The practice which produces success, 
 <em>siddhi</em>.">sadhana</a>, years of austerities and meditation.</p>
 
 <p><b>Q:</b> My mind is weak and vaccilating. I have neither the strength nor 
@@ -252,7 +252,7 @@ beauty and its wisdom, life ceases to be a task and becomes natural and
 simple, in itself an ecstasy.</p>
 
 <p><b>Q:</b> So, there is no need to worship, to pray, to practice <span 
-data-tippy-content="One of the six systems of the Hindu philosophy (from 
+href="One of the six systems of the Hindu philosophy (from 
 <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the 
 individual spirit (<em>jivatma</em>) can be joined or united with the 
 universal spirit (<em>Paramatma</em>).">yoga</a>?</p>
@@ -298,7 +298,7 @@ questions born of fear.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

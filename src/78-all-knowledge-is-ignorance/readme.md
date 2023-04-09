@@ -9,7 +9,7 @@ not knowing was in itself knowledge of the fact that all knowledge is ignorance
 your realisation?</p>
 
 <p><b>Maharaj:</b> Somehow it was very simple and easy in my case. My <span 
-data-tippy-content="Spiritual teacher, preceptor.">guru</a>, before he 
+href="Spiritual teacher, preceptor.">guru</a>, before he 
 died, told me, “Believe me — you are the Supreme Reality. Don’t doubt my 
 words, don’t disbelieve me. I am telling you the truth — act on it”. I could 
 not forget his words and by not forgetting, I have realised.</p>
@@ -83,7 +83,7 @@ something did happen to you on that date. What happened?</p>
 
 <p><b>M:</b> The mind ceased producing events. The ancient and ceaseless search 
 stopped — I wanted nothing, expected nothing, accepted nothing as my own. 
-There was no ‘me’ left to strive for. Even the bare ‘I am’ faded away. The 
+There was no ‘me’ left to strive for. Even the bare “I am” faded away. The 
 other thing that I noticed was that I lost all my habitual certainties. 
 Earlier, I was sure of so many things: now I am sure of nothing. But I feel 
 that I have lost nothing by not knowing because all my knowledge was false. My 
@@ -101,7 +101,7 @@ and ideas, like the pen writing on paper. And the ink that leaves a trace is
 memory. You are that tiny point and by your movement the world is ever 
 recreated. Stop moving, and there will be no world. Look within and you will 
 find that the point of light is the reflection of the immensity of light in 
-the body, as is the sense ‘I am’. There is only light; all else appears.</p>
+the body, as is the sense “I am”. There is only light; all else appears.</p>
 
 <p><b>Q:</b> Do you know that light? Have you seen it?</p>
 
@@ -141,16 +141,16 @@ Does your vision of reality grow in width and depth?</p>
 <p><b>M:</b> Reality is immovable and yet in constant movement. It is like a 
 mighty river — it flows and yet it is there, eternally. What flows is not the 
 river with its bed and banks, but its water. So does the <span 
-data-tippy-content="Being, existence, true essence. In <em>yoga</em> the 
+href="Being, existence, true essence. In <em>yoga</em> the 
 quality of purity or goodness.">sattva</a> <span 
-data-tippy-content="Attributes, qualities. In <em>Samkhya</em> philosophy the 
+href="Attributes, qualities. In <em>Samkhya</em> philosophy the 
 three attributes of the cosmic substance (<em>prakriti</em>) are: illuminating 
 (<em>sattva</em>), activating (<em>rajas</em>) and restraining 
 (<em>tamas</em>).">guna</a>, the universal harmony, play its games against 
 <a href="Darkness, inertia, passivity. One of the three 
 constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, 
 <em>rajas</em> and <em>tamas</em>.">tamas</a> and <span 
-data-tippy-content="Motivity, activity, energy. One of the three 
+href="Motivity, activity, energy. One of the three 
 <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and 
 <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</a>, the forces of 
 darkness and despair. In *sattva* there is always change and progress, in 
@@ -210,13 +210,13 @@ consciousness remains, but in a latent, quiet state.</p>
 
 <p><b>M:</b> The state of identity is inherent in reality and never fades. But 
 identity is neither the transient personality (<span 
-data-tippy-content="Person, the outer self.">vyakti</a>) nor the <span 
-data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of 
+href="Person, the outer self.">vyakti</a>) nor the <span 
+href="Action or “the fruits of action”. <em>Karma</em> is of 
 three kinds: <em>sanchita</em> (accumulated from previous births), 
 <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the 
 present life) and <em>agami</em> (the current <em>karma</em> the result of 
 which will fructify in future).">karma</a>-bound individuality (<span 
-data-tippy-content="Manifest matter, the evolved nature. Opposite is 
+href="Manifest matter, the evolved nature. Opposite is 
 <em>avyakta</em>.">vyakta</a>). It is what remains when all 
 self-identification is given up as false — pure consciousness, the sense of 
 being all there is or could be. Consciousness is pure in the beginning and 
@@ -224,7 +224,7 @@ pure in the end; in between, it becomes contaminated by imagination which is
 at the root of creation. At all times consciousness remains the same. To know 
 it as it is — this is realisation and timeless peace.</p>
 
-<p><b>Q:</b> Is the sense ‘I am’ real or unreal? </p>
+<p><b>Q:</b> Is the sense “I am” real or unreal? </p>
 
 <p><b>M:</b> Both. It is unreal when we say, “I am this, I am that”. It is real 
 when we mean, “I am not this, nor that”. 
@@ -233,7 +233,7 @@ The knower comes and goes with the known, and is transient; but that which
 knows that it does not know, which is free of memory and anticipation, is 
 timeless.</p>
 
-<p><b>Q:</b> Is ‘I am’ itself the witness, or are they separate?</p>
+<p><b>Q:</b> Is “I am” itself the witness, or are they separate?</p>
 
 <p><b>M:</b> Without one the other cannot be. Yet they are not one. It is like 
 the flower and its colour. Without flower, no colours; without colour, the 
@@ -260,14 +260,14 @@ self-realisation.</p>
 
 <p><b>Q:</b> On what side is the witness? Is it real or unreal?</p>
 
-<p><b>M:</b> Nobody can say, ‘I am the witness’. The ‘I am’ is always 
+<p><b>M:</b> Nobody can say, ‘I am the witness’. The “I am” is always 
 witnessed. The state of detached awareness is the witness-consciousness, the 
 ‘mirror-mind’. It rises and sets with its object and thus it is not quite the 
 real. Whatever its object, it remains the same; hence it is also real. It 
 partakes of both the real and the unreal and is therefore a bridge between the 
 two.</p>
 
-<p><b>Q:</b> If all happens only to the ‘I am’, if the ‘I am’ is the known and 
+<p><b>Q:</b> If all happens only to the “I am”, if the “I am” is the known and 
 the knower and the knowledge itself, what does the witness do? Of what use is 
 it?</p>
 
@@ -276,7 +276,7 @@ it?</p>
 <p><b>Q:</b> Then why do we talk of it?</p>
 
 <p><b>M:</b> Because it is there. The bridge serves one purpose only — to cross 
-over. You don’t build houses on a bridge. The ‘I am’ looks at things, the 
+over. You don’t build houses on a bridge. The “I am” looks at things, the 
 witness sees through them. It sees them as they are — unreal and transient. To 
 say, “not me, not mine” is the task of the witness.</p>
 
@@ -299,7 +299,7 @@ represent the unmanifested.</p>
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

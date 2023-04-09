@@ -15,7 +15,7 @@ say.</p>
 <p><b>Maharaj:</b> Good results will come, sooner or later. At Sri Ramanashram did you receive some 
 instructions?</p>
 
-<p><b>Q:</b> Yes, some English people taught me and also an Indian follower of<a href="Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (<em>jna</em>, to know; <em>jnani</em>, the knower).">jnana</a> *yoga*, residing there permanently, was giving me lessons.</p>
+<p><b>Q:</b> Yes, some English people taught me and also an Indian follower of<a href="Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (<em>jna</em>, to know; <em>jnani</em>, the knower).">jnana</a> <i>yoga</i>, residing there permanently, was giving me lessons.</p>
 
 <p><b>M:</b> What are your plans?</p>
 
@@ -24,7 +24,7 @@ Nature Cure and make it my profession.</p>
 
 <p><b>M:</b> A good profession, no doubt.</p>
 
-<p><b>Q:</b> Is there any danger in pursuing the path of *yoga* at all cost?</p>
+<p><b>Q:</b> Is there any danger in pursuing the path of <i>yoga</i> at all cost?</p>
 
 <p><b>M:</b> Is a match stick dangerous when the house is on fire? The search for reality is the most 
 dangerous of all undertakings for it will destroy the world in which you live. But if your motive is love 
@@ -68,13 +68,13 @@ action — look after your mind and heart. Stupidity and selfishness are the onl
 <p><b>M:</b> Repetition will stabilise your breath. With deep and quiet breathing, vitality will improve, which
 will influence the brain and help the mind to grow pure and stable and fit for meditation. Without 
 vitality, little can be done; hence the importance of its protection and increase. Posture and 
-breathing are a part of *yoga* because the body must be healthy and well under control; but too much 
+breathing are a part of <i>yoga</i> because the body must be healthy and well under control; but too much 
 concentration on the body defeats its own purpose, for it is the mind that is primary in the beginning. 
 When the mind has been put to rest and no longer disturbs the inner space (<a href="[<em>chit</em>, to perceive + <em>akash</em>, expanse, sky] <em>Brahman</em> in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.">chidakash</a>), the body 
 acquires a new meaning and its transformation becomes both necessary and possible.</p>
 
 <p><b>Q:</b> I have been wandering all over India, meeting many *guru*s and learning in small amounts several 
-*yoga*s. Is it all right to have a taste of everything?</p>
+<i>yoga</i>s. Is it all right to have a taste of everything?</p>
 
 <p><b>M:</b> No, this is but an introduction. You will meet a man who will help you find your own way.</p>
 
@@ -192,7 +192,7 @@ else is a waste of energy and time.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

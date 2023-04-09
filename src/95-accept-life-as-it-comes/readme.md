@@ -154,7 +154,7 @@ happens, without the selfish conviction that all must yield you pleasure or prof
 
 <p><b>Q:</b> I respond to what you say, but I just do not see how it is done.</p>
 
-<p><b>M:</b> If you know how to do it, you will not do it. Abandon every attempt, just *be*; don’t strive, don’t 
+<p><b>M:</b> If you know how to do it, you will not do it. Abandon every attempt, just <em>be</em>; don’t strive, don’t 
 struggle, let go every support, hold on to the blind sense of being, brushing off all else. This is 
 enough.</p>
 
@@ -173,7 +173,7 @@ which discovery can happen. After all, liberation is but the freedom to discover
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

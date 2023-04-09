@@ -49,7 +49,7 @@ The future affects the present as much, as the past.</p>
 <p><b>M:</b> You cannot, unless you have a clear insight into the heart of man. 
 Appearances are deceptive. 
 To see clearly, your mind must be pure and unattached. 
-Unless you know yourself — you *are* the other.
+Unless you know yourself — you <em>are</em> the other.
 
 Leave others alone for some time and examine yourself. 
 There are so many things you do not know about yourself — what are you, who are you, how did you come to be born, what are you doing now and why, where are you going, what is the meaning and purpose of your life, your death, your future? 
@@ -266,7 +266,7 @@ Virtues and powers come with realisation, not before.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

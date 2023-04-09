@@ -60,9 +60,9 @@ compulsive suggestion is present in both.</p>
 accuser and the accused, the judge, the warden and the executioner. There is not much that is 
 voluntary in a ‘voluntary’ *sadhana*. One is moved by forces beyond one’s knowledge and control. I can 
 change my mental metabolism as little as the physical, except by painful and protracted efforts — 
-which is *yoga*. All I am asking is, does Maharaj agree with me that *yoga* implies violence?</p>
+which is <i>yoga</i>. All I am asking is, does Maharaj agree with me that <i>yoga</i> implies violence?</p>
 
-<p><b>M:</b> I agree that *yoga*, as presented by you, means violence and I never advocate any form of 
+<p><b>M:</b> I agree that <i>yoga</i>, as presented by you, means violence and I never advocate any form of 
 violence. My path is totally nonviolent. I mean exactly what I say: nonviolent. Find out for yourself 
 what it is. I merely say: it is nonviolent.</p>
 
@@ -87,7 +87,7 @@ does will be right; if it does not, all it does will be wrong.</p>
 
 <p><b>Q:</b> What do you mean by saying, “I know myself as I am”?</p>
 
-<p><b>M:</b> Before the mind — I am. ‘I am’ is not a thought in the mind — the mind happens to me, I do not 
+<p><b>M:</b> Before the mind — I am. “I am” is not a thought in the mind — the mind happens to me, I do not 
 happen to the mind. And since time and space are in the mind, I am beyond time and space, eternal 
 and omnipresent.</p>
 
@@ -138,9 +138,9 @@ and evil becomes good by their own fulfilment.</p>
 
 <p><b>M:</b> Remembering, imagining, anticipating. It is sensory and verbal. A form of addiction.</p>
 
-<p><b>Q:</b> Is <a href="Continence, self-restraint from sexual activity, celibacy. <em>Brahmacharya</em> in its wider sense stands not only for abstinence from sexual indulgence, but also for freedom from craving for all sensual pleasures.">brahmacharya</a>, continence, imperative in *yoga*?</p>
+<p><b>Q:</b> Is <a href="Continence, self-restraint from sexual activity, celibacy. <em>Brahmacharya</em> in its wider sense stands not only for abstinence from sexual indulgence, but also for freedom from craving for all sensual pleasures.">brahmacharya</a>, continence, imperative in <i>yoga</i>?</p>
 
-<p><b>M:</b> A life of constraint and suppression is not *yoga*. The mind must be free of desires and relaxed. It 
+<p><b>M:</b> A life of constraint and suppression is not <i>yoga</i>. The mind must be free of desires and relaxed. It 
 comes with understanding, not with determination, which is but another form of memory. An 
 understanding mind is free of desires and fears.</p>
 
@@ -161,7 +161,7 @@ a level on which it does not operate.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

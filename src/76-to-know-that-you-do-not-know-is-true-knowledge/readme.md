@@ -14,12 +14,12 @@ This void is one for all.</p>
 It is you, and you alone, who talks of the three and the void beyond. 
 I see the world only, which includes all.</p>
 
-<p><b>M:</b> Even the ‘I am’?</p>
+<p><b>M:</b> Even the “I am”?</p>
 
-<p><b>Q:</b> Even the ‘I am’. 
-The ‘I am’ is there because the world is there.</p>
+<p><b>Q:</b> Even the “I am”. 
+The “I am” is there because the world is there.</p>
 
-<p><b>M:</b> And the world is there because the ‘I am’ is there.</p>
+<p><b>M:</b> And the world is there because the “I am” is there.</p>
 
 <p><b>Q:</b> Yes, it goes both ways. 
 I cannot separate the two, nor go beyond. 
@@ -65,7 +65,7 @@ But the obstacles to wisdom are deeply affected by practice.</p>
 <p><b>M:</b> Wrong ideas and desires leading to wrong actions, causing dissipation and weakness of mind and body. 
 The discovery and abandonment of the false remove what prevents the real entering the mind.</p>
 
-<p><b>Q:</b> I can distinguish two states of mind: ‘I am’ and ‘the world is’; they arise and subside together. 
+<p><b>Q:</b> I can distinguish two states of mind: “I am” and ‘the world is’; they arise and subside together. 
 People say, “I am, because the world is”. 
 You seem to say, “The world is, because I am”. 
 Which is true?</p>
@@ -323,7 +323,7 @@ Knowing that God is good, they are at peace.
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>

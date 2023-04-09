@@ -161,7 +161,7 @@ the life reverts to its daily greyness.</p>
 <p><b>M:</b> Discontinuity is the law when you deal with the concrete. The continuous cannot be 
 experienced, for it has no borders. Consciousness implies alterations, change followings change, 
 when one thing or state comes to an end and another begins; that which has no borderline cannot 
-be experienced in the common meaning of the word. One can only *be* it, without knowing, but one 
+be experienced in the common meaning of the word. One can only <em>be</em> it, without knowing, but one 
 can know what it is not. It is definitely not the entire content of consciousness which is always on 
 the move.</p>
 
@@ -294,7 +294,7 @@ investigation. You must work relentlessly for your salvation from sin and sorrow
 export default {
   props: ["slot-key"],
   mounted () {
-    tippy("[data-tippy-content]", {allowHTML: true});
+    tippy("[href]", {allowHTML: true});
   }
 }
 </script>
