@@ -51,7 +51,7 @@ name, but here the family is spiritual.</p>
 <p><b>Q:</b> Do you have to realise to join the *Sampradaya*?</p>
 
 <p><b>M:</b> The *Navanath Sampradaya* is only a tradition, a way of teaching and practice. It does not denote 
-a level of consciousness. If you accept a *Navanath Sampradaya* teacher as your *guru*, you join his 
+a level of consciousness. If you accept a *Navanath Sampradaya* teacher as your <i>guru</i>, you join his 
 *Sampradaya*. Usually you receive a token of his grace — a look, a touch, or a word, sometimes a 
 vivid dream or a strong remembrance. Sometimes the only sign of grace is a significant and rapid 
 change in character and behaviour.</p>
@@ -60,7 +60,7 @@ change in character and behaviour.</p>
 my mind. Does it make me belong to your *Sampradaya*?</p>
 
 <p><b>M:</b> Your belonging is a matter of your own feeling and conviction. After all, it is all verbal and 
-formal. In reality, there is neither *guru* nor disciple, neither theory nor practice, neither ignorance nor 
+formal. In reality, there is neither <i>guru</i> nor disciple, neither theory nor practice, neither ignorance nor 
 realisation. It all depends on what you take yourself to be. Know yourself correctly. There is no 
 substitute for self-knowledge.</p>
 
@@ -203,21 +203,21 @@ and all your predecessors are reïncarnations of the *Rishi*?</p>
 <p><b>M:</b> You may believe in whatever you like and if you act on your belief, you will get the fruits of it; but 
 to me it has no importance. I am what I am and this is enough for me. I have no desire to identify 
 myself with anybody, however illustrious. Nor do I feel the need to take myths for reality. I am only 
-interested in ignorance and the freedom from ignorance. The proper role of a *guru* is to dispel 
+interested in ignorance and the freedom from ignorance. The proper role of a <i>guru</i> is to dispel 
 ignorance in the hearts and minds of his disciples. Once the disciple has understood, the confirming 
 action is up to him. Nobody can act for another. And if he does not act rightly, it only means that he 
-has not understood and that the *guru*’s work is not over.</p>
+has not understood and that the <i>guru</i>’s work is not over.</p>
 
 <p><b>Q:</b> There must be some hopeless cases, too.</p>
 
-<p><b>M:</b> None is hopeless. Obstacles can be overcome. What life cannot mend, death will end, but the *guru* cannot fail.</p>
+<p><b>M:</b> None is hopeless. Obstacles can be overcome. What life cannot mend, death will end, but the <i>guru</i> cannot fail.</p>
 
 <p><b>Q:</b> What gives you the assurance?</p>
 
-<p><b>M:</b> The *guru* and man’s inner reality are really one and work together towards the same goal — the 
+<p><b>M:</b> The <i>guru</i> and man’s inner reality are really one and work together towards the same goal — the 
 redemption and salvation of the mind. They cannot fail. Out of the very boulders that obstruct them, 
 they build their bridges. Consciousness is not the whole of being — there are other levels on which 
-man is much more coöperative. The *guru* is at home on all levels and his energy and patience are 
+man is much more coöperative. The <i>guru</i> is at home on all levels and his energy and patience are 
 inexhaustible.</p>
 
 <p><b>Q:</b> You keep on telling me that I am dreaming and that it is high time I should wake up. How does 
@@ -268,8 +268,8 @@ humanoid only.</p>
 
 <p><b>M:</b> So, we are all subhuman and only a few are human. Few or many, it is again ‘clarity and 
 charity’ that make us human. The subhuman — the ‘humanoids’ — are dominated by <a href="Darkness, inertia, passivity. One of the three constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">tamas</a> and 
-<a href="Motivity, activity, energy. One of the three <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</a> and the humans by <a href="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</a>. Clarity and charity is *sattva* as it affects mind and action. But the 
-real is beyond *sattva*. Since I have known you, you seem to be always after helping the world. How 
+<a href="Motivity, activity, energy. One of the three <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</a> and the humans by <a href="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</a>. Clarity and charity is <i>sattva</i> as it affects mind and action. But the 
+real is beyond <i>sattva</i>. Since I have known you, you seem to be always after helping the world. How 
 much have you helped?</p>
 
 <p><b>Q:</b> Not a bit. Neither the world has changed, nor have I. But the world suffers and I suffer along 

@@ -17,17 +17,17 @@ not forget his words and by not forgetting, I have realised.</p>
 <p><b>Q:</b> But what were you actually doing?</p>
 
 <p><b>M:</b> Nothing special. I lived my life, plied my trade, looked after my 
-family, and every free moment I would spend just remembering my *guru* and his 
+family, and every free moment I would spend just remembering my <i>guru</i> and his 
 words. He died soon after and I had only the memory to fall back on. It was 
 enough.</p>
 
-<p><b>Q:</b> It must have been the grace and power of your *guru*.</p>
+<p><b>Q:</b> It must have been the grace and power of your <i>guru</i>.</p>
 
 <p><b>M:</b> His words were true and so they came true. True words always come 
-true. My *guru* did nothing; his words acted because they were true. Whatever 
+true. My <i>guru</i> did nothing; his words acted because they were true. Whatever 
 I did came from within, unasked and unexpected.</p>
 
-<p><b>Q:</b> The *guru* started a process without taking any part in it?</p>
+<p><b>Q:</b> The <i>guru</i> started a process without taking any part in it?</p>
 
 <p><b>M:</b> Put it as you like. Things happen as they happen — who can tell 
 why and how? I did nothing deliberately. All came by itself — the desire to 
@@ -50,7 +50,7 @@ Supreme?</p>
 <p><b>M:</b> Nobody came to tell me. Nor was I told so inwardly. In fact, it 
 was only in the beginning when I was making efforts, that I was passing 
 through some strange experiences: seeing lights, hearing voices, meeting gods 
-and goddesses and conversing with them. Once the *guru* told me, “You are the 
+and goddesses and conversing with them. Once the <i>guru</i> told me, “You are the 
 Supreme Reality”, I ceased having visions and trances and became very quiet 
 and simple. I found myself desiring and knowing less and less until I could 
 say in utter astonishment, “I know nothing, I want nothing”.</p>
@@ -58,9 +58,9 @@ say in utter astonishment, “I know nothing, I want nothing”.</p>
 <p><b>Q:</b> Were you genuinely free of desire and knowledge, or did you 
 impersonate a <a href="The knower, especially of the higher 
 knowledge derived from meditation; “closely related to the knowledge of 
-Brahman”.">jnani</a> according to the image given to you by your *guru*?</p>
+Brahman”.">jnani</a> according to the image given to you by your <i>guru</i>?</p>
 
-<p><b>M:</b> I was not given any image, nor did I have one. My *guru* never 
+<p><b>M:</b> I was not given any image, nor did I have one. My <i>guru</i> never 
 told me what to expect.</p>
 
 <p><b>Q:</b> More things may happen to you. Are you at the end of your journey?</p>
@@ -153,13 +153,13 @@ constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>,
 href="Motivity, activity, energy. One of the three 
 <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and 
 <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</a>, the forces of 
-darkness and despair. In *sattva* there is always change and progress, in 
+darkness and despair. In <i>sattva</i> there is always change and progress, in 
 *rajas* there is change and regress, while *tamas* stands for chaos. The three 
 *guna*s play eternally against each other — it is a fact and there can be no 
 quarrel with a fact.</p>
 
 <p><b>Q:</b> Must I always go dull with *tamas* and desperate with *rajas*? 
-What about *sattva*?</p>
+What about <i>sattva</i>?</p>
 
 <p><b>M:</b> *Sattva* is the radiance of your real nature. You can always find 
 it beyond the mind and its many worlds. But if you want a world, you must 

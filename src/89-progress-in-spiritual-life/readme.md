@@ -27,7 +27,7 @@ three kinds: <em>sanchita</em> (accumulated from previous births),
 <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the 
 present life) and <em>agami</em> (the current <em>karma</em> the result of 
 which will fructify in future).">karma</a>-<i>yoga</i>, selfless work, service 
-of the *guru* and so forth. Like the *[Bhagavad] Gita*, he says that selfless 
+of the <i>guru</i> and so forth. Like the *[Bhagavad] Gita*, he says that selfless 
 work will result in salvation. He is full of ambitious plans — training 
 workers who will start spiritual centres in many countries. It seems he gives 
 them not only the authority, but also the power to do the work in his name.</p>
@@ -35,13 +35,13 @@ them not only the authority, but also the power to do the work in his name.</p>
 <p><b>M:</b> Yes, there is such a thing as transmission of power.</p>
 
 <p><b>Q:</b> When I was with them, I had a strange feeling of becoming 
-invisible. The devotees, in their surrender to their *guru*, surrendered me 
-also! Whatever I did for them was their *guru*’s doing and I was not 
+invisible. The devotees, in their surrender to their <i>guru</i>, surrendered me 
+also! Whatever I did for them was their <i>guru</i>’s doing and I was not 
 considered, except as a mere instrument. I was merely a tap to turn left or 
 right. There was no personal relationship whatsoëver. They tried a little to 
 convert me to their faith; as soon as they felt resistance, they just dropped 
 me from the field of their attention. Even between themselves they did not 
-appear very much related; it is their common interest in their *guru* that 
+appear very much related; it is their common interest in their <i>guru</i> that 
 kept them together. I found it rather cold, almost inhuman. To consider 
 oneself an instrument in God’s hands is one thing; to be denied all attention 
 and consideration because ‘all is God’ may lead to indifference verging on 
@@ -54,7 +54,7 @@ the will to <em>be</em> and what remains? Existence and non-existence relate to
 something in space and time — here and now, there and then, which again are in 
 the mind. The mind plays a guessing game; it is ever uncertain, anxiety-ridden 
 and restless. You resent being treated as a mere instrument of some god or 
-*guru*, and insist on being treated as a person because you are not sure of 
+<i>guru</i>, and insist on being treated as a person because you are not sure of 
 your own existence and do not want to give up the comfort and assurance of a 
 personality. You may not be what you believe yourself to be, but it gives you 
 continuity, your future flows into the present and becomes the past without 
@@ -81,12 +81,12 @@ These two must be their own — I can only encourage.</p>
 
 <p><b>Q:</b> What am I expected to do when I become a disciple?</p>
 
-<p><b>M:</b> Each teacher has his own method, usually patterned on his *guru*’s 
+<p><b>M:</b> Each teacher has his own method, usually patterned on his <i>guru</i>’s 
 teachings and on the way he himself has realised, and his own terminology as 
 well. Within that framework, adjustments to the personality of the disciple 
 are made. The disciple is given full freedom of thought and inquiry and 
 encouraged to question to his heart’s content. He must be absolutely certain 
-of the standing and competence of his *guru*; otherwise, his faith will not be 
+of the standing and competence of his <i>guru</i>; otherwise, his faith will not be 
 absolute nor his action complete. It is the absolute in you that takes you to 
 the absolute beyond you — absolute truth, love and selflessness are the 
 decisive factors in self-realisation. With earnestness these can be reached.</p>
@@ -94,7 +94,7 @@ decisive factors in self-realisation. With earnestness these can be reached.</p>
 <p><b>Q:</b> I understand one must give up one’s family and possessions to 
 become a disciple.</p>
 
-<p><b>M:</b> It varies with the *guru*. Some expect their mature disciples to 
+<p><b>M:</b> It varies with the <i>guru</i>. Some expect their mature disciples to 
 become ascetics and recluses; some encourage family life and duties. Most of 
 them consider a model family life more difficult than renunciation, suitable 
 for a personality more mature and better balanced. In the early stages the 
@@ -127,7 +127,7 @@ and abundant energy without.</p>
 
 <p><b>Q:</b> How did you get it?</p>
 
-<p><b>M:</b> I found it all in the holy presence of my *guru* — I did nothing 
+<p><b>M:</b> I found it all in the holy presence of my <i>guru</i> — I did nothing 
 on my own. He told me to be quiet and I did it as much as I could.</p>
 
 <p><b>Q:</b> Is your presence as powerful as his?</p>
@@ -135,7 +135,7 @@ on my own. He told me to be quiet and I did it as much as I could.</p>
 <p><b>M:</b> How am I to know? For me, his is the only presence. If you are 
 with me, you are with him.</p>
 
-<p><b>Q:</b> Each *guru* will refer me to his own *guru*. Where is the starting 
+<p><b>Q:</b> Each <i>guru</i> will refer me to his own <i>guru</i>. Where is the starting 
 point?</p>
 
 <p><b>M:</b> There is a power in the universe working for enlightenment and 

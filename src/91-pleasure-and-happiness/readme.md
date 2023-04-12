@@ -28,20 +28,20 @@ meaningless torture and humiliation.</p>
 
 <p><b>Q:</b> I was given a book written by a <a href="The realised person, one who has attained perfection.">siddha</a>. He describes in it many of his strange, even amazing
 experiences. According to him, the way of a true <a href="Spiritual aspirant.">sadhaka</a> ends with his meeting his <a href="Spiritual teacher, preceptor.">guru</a> and 
-surrendering to him body, mind and heart. Henceforth, the *guru* takes over and becomes 
+surrendering to him body, mind and heart. Henceforth, the <i>guru</i> takes over and becomes 
 responsible for even the smallest events in the disciple’s life until the two become one. One may call it, 
 “realisation through identification”. The disciple is taken over by a power he cannot control nor resist, 
 and feels as helpless as a leaf in a storm. The only thing that keeps him safe from madness and 
-death is his faith in the love and power of his *guru*.</p>
+death is his faith in the love and power of his <i>guru</i>.</p>
 
 <p><b>M:</b> Every teacher teaches according to his own experience. Experience is shaped by belief and 
-belief is shaped by experience. Even the *guru* is shaped by the disciple to his own image. It is the 
-disciple that makes the *guru* great. Once the *guru* is seen to be the agent of a liberating power 
+belief is shaped by experience. Even the <i>guru</i> is shaped by the disciple to his own image. It is the 
+disciple that makes the <i>guru</i> great. Once the <i>guru</i> is seen to be the agent of a liberating power 
 which works both from within and without, whole-hearted surrender becomes natural and easy. Just as a man gripped by pain puts himself completely in the hands of a surgeon, so does the disciple 
-entrust himself without reservation to his *guru*. It is quite natural to seek help when its need is felt 
-acutely. But, however powerful the *guru* may be, he should not impose his will on the disciple. On 
+entrust himself without reservation to his <i>guru</i>. It is quite natural to seek help when its need is felt 
+acutely. But, however powerful the <i>guru</i> may be, he should not impose his will on the disciple. On 
 the other hand, a disciple that distrusts and hesitates is bound to remain unfulfilled for no fault of his 
-*guru*.</p>
+<i>guru</i>.</p>
 
 <p><b>Q:</b> What happens then?</p>
 

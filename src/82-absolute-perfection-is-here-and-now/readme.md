@@ -211,7 +211,7 @@ specialised social workers.</p>
 
 <p><b>M:</b> The world had all the time to get better, yet it did not. What 
 hope is there for the future? Of course, there have been and will be periods 
-of harmony and peace, when *sattva* was in ascendance, but things get 
+of harmony and peace, when <i>sattva</i> was in ascendance, but things get 
 destroyed by their own perfection. A perfect society is necessarily static and 
 therefore it stagnates and decays. From the summit all roads lead downwards. 
 Societies are like people — they are born, they grow to some point of relative 

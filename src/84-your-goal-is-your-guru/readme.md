@@ -1,29 +1,29 @@
-# 84. Your Goal Is Your *guru*
+# 84. Your Goal Is Your <i>guru</i>
 
 >Do not look for a <span style=font-style:normal>guru</a>; do not even think of one. 
 Make your goal your <span style=font-style:normal>guru</a>. 
 After all, the <span style=font-style:normal>guru</a> is but a means to an end, not the end in itself.</p>
 
-<p><b>Questioner:</b> You were telling us that there are many self-styled <a href="Spiritual teacher, preceptor.">guru</a>s, but a real *guru* is very rare. 
+<p><b>Questioner:</b> You were telling us that there are many self-styled <a href="Spiritual teacher, preceptor.">guru</a>s, but a real <i>guru</i> is very rare. 
 There are many <a href="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</a>s who imagine themselves realised, but all they have is book knowledge and a high opinion of themselves. 
 Sometimes they impress, even fascinate, attract disciples and make them waste their time in useless practices. 
 After some years, when the disciple takes stock of himself, he finds no change. 
 When he complains to his teacher, he gets the usual rebuke that he did not try hard enough. 
-The blame is on the lack of faith and love in the heart of the disciple, while in reality the blame is on the *guru*, who had no business in accepting disciples and raising their hopes. 
-How to protect oneself from such *guru*s?</p>
+The blame is on the lack of faith and love in the heart of the disciple, while in reality the blame is on the <i>guru</i>, who had no business in accepting disciples and raising their hopes. 
+How to protect oneself from such <i>guru</i>s?</p>
 
 <p><b>Maharaj:</b> Why be so concerned with others? 
-Whoëver may be the *guru*, if he is pure of heart and acts in good faith, he will do his disciples no harm. 
+Whoëver may be the <i>guru</i>, if he is pure of heart and acts in good faith, he will do his disciples no harm. 
 If there is no progress, the fault lies with the disciples — their laziness and lack of self-control. 
 On the other hand, if the disciple is earnest and applies himself intelligently and with zest to his <a href="The practice which produces success, <em>siddhi</em>.">sadhana</a>, he is bound to meet a more qualified teacher, who will take him further. 
-Your question flows from three false assumptions: that one needs concern oneself with others; that one can evaluate another, and that the progress of the disciple is the task and responsibility of his *guru*. 
-In reality, the *guru*’s role is only to instruct and encourage; the disciple is totally responsible for himself.</p>
+Your question flows from three false assumptions: that one needs concern oneself with others; that one can evaluate another, and that the progress of the disciple is the task and responsibility of his <i>guru</i>. 
+In reality, the <i>guru</i>’s role is only to instruct and encourage; the disciple is totally responsible for himself.</p>
 
-<p><b>Q:</b> We are told that total surrender to the *guru* is enough, that the *guru* will do the rest.</p>
+<p><b>Q:</b> We are told that total surrender to the <i>guru</i> is enough, that the <i>guru</i> will do the rest.</p>
 
 <p><b>M:</b> Of course, when there is total surrender, complete relinquishment of all concern with one’s past,
 present and future, with one’s physical and spiritual security and standing, a new life dawns, full of
-love and beauty; then the *guru* is not important, for the disciple has broken the shell of self-defence.
+love and beauty; then the <i>guru</i> is not important, for the disciple has broken the shell of self-defence.
 Complete self-surrender by itself is liberation.</p>
 
 <p><b>Q:</b> When both the disciple and his teacher are inadequate, what will happen?</p>
@@ -58,16 +58,16 @@ How did you come to live in turmoil and sorrow, while your entire being strives 
 These are weighty matters and have to be attended to first. 
 You have no need nor time for finding who is a <i>jnani</i> and who is not.</p>
 
-<p><b>Q:</b> I must select my *guru* rightly.</p>
+<p><b>Q:</b> I must select my <i>guru</i> rightly.</p>
 
-<p><b>M:</b> Be the right man and the right *guru* will surely find you.</p>
+<p><b>M:</b> Be the right man and the right <i>guru</i> will surely find you.</p>
 
-<p><b>Q:</b> You are not answering my question: how does one find the right *guru*?</p>
+<p><b>Q:</b> You are not answering my question: how does one find the right <i>guru</i>?</p>
 
 <p><b>M:</b> But I did answer your question. 
-Do not look for a *guru*; do not even think of one. 
-Make your goal your *guru*. 
-After all, the *guru* is but a means to an end, not the end in itself. 
+Do not look for a <i>guru</i>; do not even think of one. 
+Make your goal your <i>guru</i>. 
+After all, the <i>guru</i> is but a means to an end, not the end in itself. 
 He is not important — it is what you expect of him that matters to you. 
 Now, what do you expect?</p>
 
@@ -101,17 +101,17 @@ In reality it is the other way around: what is remembered is never real; the rea
 
 <p><b>Q:</b> All this I grasp verbally, but it does not become a part of myself. 
 It remains as a picture in my mind to be looked at. 
-Is it not the task of the *guru* to give life to the picture?</p>
+Is it not the task of the <i>guru</i> to give life to the picture?</p>
 
 <p><b>M:</b> Again, it is the other way around. 
 The picture is alive; dead is the mind. 
 As the mind is made of words and images, so is every reflection in the mind. 
 It covers up reality with verbalisation and then complains. 
-You say a *guru* is needed to do miracles with you. 
+You say a <i>guru</i> is needed to do miracles with you. 
 You are only playing with words. 
-The *guru* and the disciple are one single thing, like the candle and its flame. 
+The <i>guru</i> and the disciple are one single thing, like the candle and its flame. 
 Unless the disciple is earnest, he cannot be called a disciple. 
-Unless a *guru* is all love and self-giving, he cannot be called a *guru*. 
+Unless a <i>guru</i> is all love and self-giving, he cannot be called a <i>guru</i>. 
 Only Reality begets reality, not the false.</p>
 
 <p><b>Q:</b> I can see that I am false. 
@@ -123,37 +123,37 @@ Ponder over it, go into it deeply, go to the root of it; it will operate.
 The power is in the word, not in the person.</p>
 
 <p><b>Q:</b> I do not grasp you fully. 
-On one hand you say that a *guru* is needed; on the other, that the *guru* can only give advice, but the effort is mine. 
-Please state clearly — can one realise the Self without a *guru*, or is the finding of a true *guru* essential?</p>
+On one hand you say that a <i>guru</i> is needed; on the other, that the <i>guru</i> can only give advice, but the effort is mine. 
+Please state clearly — can one realise the Self without a <i>guru</i>, or is the finding of a true <i>guru</i> essential?</p>
 
 <p><b>M:</b> More essential is the finding of a true disciple. 
-Believe me, a true disciple is very rare, for in no time he goes beyond the need for a *guru* by finding his own self. 
+Believe me, a true disciple is very rare, for in no time he goes beyond the need for a <i>guru</i> by finding his own self. 
 Don’t waste your time on trying to make out whether the advice you get flows from knowledge only or from valid experience. 
 Just follow it faithfully. 
-Life will bring you another *guru* if another one is needed. 
+Life will bring you another <i>guru</i> if another one is needed. 
 Or it will deprive you of all outer guidance and leave you to your own lights. 
-It is very important to understand that it is the teaching that matters, not the person of the *guru*. 
+It is very important to understand that it is the teaching that matters, not the person of the <i>guru</i>. 
 You get a letter that makes you laugh or cry. 
 It is not the postman who does it. 
-The *guru* only tells you the good news about your real Self and shows you the way back to it. 
-In a way, the *guru* is its messenger. 
+The <i>guru</i> only tells you the good news about your real Self and shows you the way back to it. 
+In a way, the <i>guru</i> is its messenger. 
 There will be many messengers, but the message is one: be what you are. 
-Or you may put it differently: until you realise yourself, you cannot know who your real *guru* is. 
-When you realise, you find that all the *guru*s you had have contributed to your awakening. 
-Your realisation is the proof that your *guru* was real. 
+Or you may put it differently: until you realise yourself, you cannot know who your real <i>guru</i> is. 
+When you realise, you find that all the <i>guru</i>s you had have contributed to your awakening. 
+Your realisation is the proof that your <i>guru</i> was real. 
 Therefore, take him as he is, do what he tells you with earnestness and zeal and trust your heart to warn you if anything goes wrong. 
 If doubt sets in, don’t fight it. 
 Cling to what is doubtless and leave the doubtful alone.</p>
 
-<p><b>Q:</b> I have a *guru* and I love him very much. 
-But whether he is my true *guru*, I do not know.</p>
+<p><b>Q:</b> I have a <i>guru</i> and I love him very much. 
+But whether he is my true <i>guru</i>, I do not know.</p>
 
 <p><b>M:</b> Watch yourself. 
 If you see yourself changing and growing, it means you have found the right man. 
 He may be beautiful or ugly, pleasant or unpleasant, flattering or scolding; nothing matters except the one crucial fact of inward growth. 
-If you don’t experience this growth, well, he may be your friend, but not your *guru*.</p>
+If you don’t experience this growth, well, he may be your friend, but not your <i>guru</i>.</p>
 
-<p><b>Q:</b> When I meet a European with some education and talk to him about a *guru* and his teachings, his reaction is: “the man must be mad to teach such nonsense”. 
+<p><b>Q:</b> When I meet a European with some education and talk to him about a <i>guru</i> and his teachings, his reaction is: “the man must be mad to teach such nonsense”. 
 What am I to tell him?</p>
 
 <p><b>M:</b> Take him to himself. 
@@ -163,15 +163,15 @@ Totally a creature of heredity and society, he lives by memory and acts by habit
 Ignorant of himself and his true interests, he pursues false aims and is always frustrated. 
 His life and death are meaningless and painful, and there seems to be no way out. 
 Then tell him there is a way out within his easy reach, not a conversion to another set of ideas, but a liberation from all ideas and patterns of living. 
-Don’t tell him about *guru*s and disciples — this way of thinking is not for him. 
+Don’t tell him about <i>guru</i>s and disciples — this way of thinking is not for him. 
 His is an inner path; he is moved by an inner urge and guided by an inner light. 
 Invite him to rebel and he will respond. 
-Do not try to impress on him that so-and-so is a realised man and can be accepted as a *guru*. 
+Do not try to impress on him that so-and-so is a realised man and can be accepted as a <i>guru</i>. 
 As long as he does not trust himself, he cannot trust another. 
 And confidence will come with experience.</p>
 
 <p><b>Q:</b> How strange! 
-I cannot imagine life without a *guru*.</p>
+I cannot imagine life without a <i>guru</i>.</p>
 
 <p><b>M:</b> It is a matter of temperament. 
 You, too, are right. 
@@ -185,7 +185,7 @@ Live on it.</p>
 <p><b>M:</b> It is madness, but it is a deliberate madness. 
 All repetitiveness is <a href="Darkness, inertia, passivity. One of the three constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">tamas</a>, but repeating the name 
 of God is <a href="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</a>–*tamas* due to its high purpose. 
-Because of the presence of *sattva*, the *tamas* will wear out and will take the shape of complete dispassion, detachment, relinquishment, aloofness, immutability. 
+Because of the presence of <i>sattva</i>, the *tamas* will wear out and will take the shape of complete dispassion, detachment, relinquishment, aloofness, immutability. 
 *Tamas* becomes the firm foundation on which an integrated life can be lived.</p>
 
 <p><b>Q:</b> The immutable — does it die?</p>
@@ -206,10 +206,10 @@ It is not me who talks — the words appear in my mind and then I hear them said
 But you insist that you think, you speak, while to me there is thinking, there is speaking.</p>
 
 <p><b>Q:</b> There are two cases to consider. 
-Either I have found a *guru*, or I have not. 
+Either I have found a <i>guru</i>, or I have not. 
 In each case what is the right thing to do?</p>
 
-<p><b>M:</b> You are never without a *guru*, for he is timelessly present in your heart. 
+<p><b>M:</b> You are never without a <i>guru</i>, for he is timelessly present in your heart. 
 Sometimes he externalises himself and comes to you as an uplifting and reforming factor in your life, a mother, a
 wife, a teacher; or he remains as an inner urge toward righteousness and perfection. 
 All you have to do is obey him and do what he tells you. 

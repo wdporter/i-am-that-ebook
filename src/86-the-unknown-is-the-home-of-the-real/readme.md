@@ -5,12 +5,12 @@ Mere mental knowledge is not enough.
 The known is accidental; the unknown is the home of the real. 
 To live in the known is bondage; to live in the unknown is liberation.</p>
 
-<p><b>Questioner:</b> Who is the <a href="Spiritual teacher, preceptor.">guru</a> and who is the supreme *guru*?</p>
+<p><b>Questioner:</b> Who is the <a href="Spiritual teacher, preceptor.">guru</a> and who is the supreme <i>guru</i>?</p>
 
-<p><b>Maharaj:</b> All that happens in your consciousness is your *guru*. 
-And pure awareness beyond consciousness is the supreme *guru*.</p>
+<p><b>Maharaj:</b> All that happens in your consciousness is your <i>guru</i>. 
+And pure awareness beyond consciousness is the supreme <i>guru</i>.</p>
 
-<p><b>Q:</b> My *guru* is Sri Babaji. 
+<p><b>Q:</b> My <i>guru</i> is Sri Babaji. 
 What is your opinion of him?</p>
 
 <p><b>M:</b> What a question to ask! 
@@ -103,7 +103,7 @@ It made you believe yourself to be what you are not.
 What is it, and can you be free of it? 
 Before you go further you must accept, at least as a working theory, that you are not what you appear to be, that you are under the influence of a drug. 
 Then only will you have the urge and the patience to examine the symptoms and search for their common cause. 
-All that a *guru* can tell you is, “My dear sir, you are quite mistaken about yourself. 
+All that a <i>guru</i> can tell you is, “My dear sir, you are quite mistaken about yourself. 
 You are not the person you think yourself to be”. 
 Trust nobody, not even yourself. 
 Search, find out, remove and reject every assumption until you reach the living waters and the rock of truth. 
@@ -156,11 +156,11 @@ Roll it up, it is there as mere identity, useful when needed.
 Freedom from the ego-self is the fruit of self-inquiry.</p>
 
 <p><b>Q:</b> There was a time when I was most displeased with myself. 
-Now I have met my *guru* and I am at peace after having surrendered myself to him completely.</p>
+Now I have met my <i>guru</i> and I am at peace after having surrendered myself to him completely.</p>
 
 <p><b>M:</b> If you watch your daily life you will see that you have surrendered nothing. 
-You have merely added the word ‘surrender’ to your vocabulary and made your *guru* into a peg to hang your problems on. Real surrender means doing nothing unless prompted by your *guru*. 
-You step, so to speak, aside and let your *guru* live your life. 
+You have merely added the word ‘surrender’ to your vocabulary and made your <i>guru</i> into a peg to hang your problems on. Real surrender means doing nothing unless prompted by your <i>guru</i>. 
+You step, so to speak, aside and let your <i>guru</i> live your life. 
 You merely watch and wonder how easily he solves the problems which to you seemed insoluble.</p>
 
 <p><b>Q:</b> As I sit here, I see the room, the people. 
@@ -189,29 +189,29 @@ It is a mistake to take the conscious to be the whole of man.
 Man is the unconscious, the conscious and the super-conscious, but you are not the man. 
 Yours is the cinema screen, the light as well as the seeing power, but the picture is not you.</p>
 
-<p><b>Q:</b> Must I search for the *guru*, or shall I stay with whomever I have found?</p>
+<p><b>Q:</b> Must I search for the <i>guru</i>, or shall I stay with whomever I have found?</p>
 
 <p><b>M:</b> The very question shows that you have not yet found one. 
-As long as you have not realised, you will move from *guru* to *guru*, but when you have found yourself, the search will end. 
-A *guru* is a milestone. 
+As long as you have not realised, you will move from <i>guru</i> to <i>guru</i>, but when you have found yourself, the search will end. 
+A <i>guru</i> is a milestone. 
 When you are on the move, you pass so many milestones. 
 When you have reached your destination, it is the last alone that mattered. 
 In reality, all mattered at their own time and none matters now.</p>
 
-<p><b>Q:</b> You seem to give no importance to the *guru*. 
+<p><b>Q:</b> You seem to give no importance to the <i>guru</i>. 
 He is merely an incident among others.</p>
 
 <p><b>M:</b> All incidents contribute, but none is crucial. 
 On the road, each step helps you reach your destination, and each is as crucial as the other, for each step must be made, you cannot skip it. 
 If you refuse to make it, you are stuck!</p>
 
-<p><b>Q:</b> Everybody sings the glories of the *guru*, while you compare him to a milestone. 
-Don’t we need a *guru*?</p>
+<p><b>Q:</b> Everybody sings the glories of the <i>guru</i>, while you compare him to a milestone. 
+Don’t we need a <i>guru</i>?</p>
 
 <p><b>M:</b> Don’t we need a milestone? 
 Yes and no. 
 Yes, if we are uncertain, no if we know our way. 
-Once we are certain in ourselves, the *guru* is no longer needed, except in a technical sense. 
+Once we are certain in ourselves, the <i>guru</i> is no longer needed, except in a technical sense. 
 Your mind is an instrument, after all, and you should know how to use it. 
 As you are taught the uses of your body, so you should know how to use your mind.</p>
 
@@ -256,7 +256,7 @@ In the beginning the attempts are irregular, then they recur more often, become 
 
 <p><b>M:</b> To self-forgetting.</p>
 
-<p><b>Q:</b> If worship and prayers are ineffectual why do you worship daily, with songs and music, the image of your *guru*?</p>
+<p><b>Q:</b> If worship and prayers are ineffectual why do you worship daily, with songs and music, the image of your <i>guru</i>?</p>
 
 <p><b>M:</b> Those who want to, do it. 
 I see no purpose in interfering.</p>

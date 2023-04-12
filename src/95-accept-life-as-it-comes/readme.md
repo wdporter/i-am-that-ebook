@@ -60,7 +60,7 @@ meditation hall, canteen, library and office.</p>
 <p><b>M:</b> *Ashram*s are not made, they happen. You cannot start nor prevent them, as you cannot start or 
 stop a river. Too many factors are involved in the creation of a successful *ashram* and your inner 
 maturity is only one of them. Of course, if you are ignorant of your real being, whatever you do must 
-turn to ashes. You cannot imitate a *guru* and get away with it. All hypocrisy will end in disaster.</p>
+turn to ashes. You cannot imitate a <i>guru</i> and get away with it. All hypocrisy will end in disaster.</p>
 
 <p><b>Q:</b> What is the harm in behaving like a saint even before being one?</p>
 

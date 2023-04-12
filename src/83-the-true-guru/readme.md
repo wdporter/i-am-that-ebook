@@ -10,19 +10,19 @@ realisation was the trust in your <a href="Spiritual teacher,
 preceptor.">guru</a>. He assured you that you were already the Absolute 
 Reality and there was nothing more to be done. You trusted him and left it at 
 that, without straining, without striving. Now, my question is, without trust 
-in your *guru* would you have realised? After all, what you are, you are 
+in your <i>guru</i> would you have realised? After all, what you are, you are 
 whether your mind trusts or not; would doubt obstruct the action of the 
-*guru*’s words and make them inoperative?</p>
+<i>guru</i>’s words and make them inoperative?</p>
 
 <p><b>Maharaj:</b> You have said it — they would have been made inoperative — 
 for a time.</p>
 
-<p><b>Q:</b> And what would happen to the energy or power in the *guru*’s words?</p>
+<p><b>Q:</b> And what would happen to the energy or power in the <i>guru</i>’s words?</p>
 
 <p><b>M:</b> It would remain latent, unmanifested. But the entire question is 
 based on a misunderstanding. The master, the disciple, the love and trust 
 between them — these are one fact, not so many independent facts. Each is a 
-part of the other. Without love and trust there would have been no *guru* nor 
+part of the other. Without love and trust there would have been no <i>guru</i> nor 
 disciple, and no relationship between them. It is like pressing a switch to 
 light an electric lamp. It is because the lamp, the wiring, the switch, the 
 transformer, the transmission lines and the power house, form a single whole 
@@ -30,17 +30,17 @@ that you get the light. Any one factor missing and there would be no light.
 You must not separate the inseparable. Words do not create facts; they either 
 describe them or distort. The fact is always non-verbal.</p>
 
-<p><b>Q:</b> I still do not understand — can the *guru*’s word remain 
+<p><b>Q:</b> I still do not understand — can the <i>guru</i>’s word remain 
 unfulfilled or will it invariably prove true?</p>
 
 <p><b>M:</b> Words of a realised man never miss their purpose. They wait for 
 the right conditions to arise, which may take some time; and this is natural, 
 for there is a season for sowing and a season for harvesting. But the word of 
-a *guru* is a seed that cannot perish. Of course, the *guru* must be a real 
+a <i>guru</i> is a seed that cannot perish. Of course, the <i>guru</i> must be a real 
 one who is beyond the body and the mind, beyond consciousness itself, beyond 
 space and time, beyond duality and unity, beyond understanding and 
 description. The good people who have read a lot and have a lot to say may 
-teach you many useful things, but they are not the real *guru*s whose words 
+teach you many useful things, but they are not the real <i>guru</i>s whose words 
 invariably come true. They also may tell you that you are the ultimate reality 
 itself, but what of it?</p>
 
@@ -48,24 +48,24 @@ itself, but what of it?</p>
 shall I be the loser?</p>
 
 <p><b>M:</b> If you are able to trust and obey, you will soon find your real 
-*guru*, or, rather, he will find you.</p>
+<i>guru</i>, or, rather, he will find you.</p>
 
-<p><b>Q:</b> Does every knower of the Self become a *guru*, or can one be a 
+<p><b>Q:</b> Does every knower of the Self become a <i>guru</i>, or can one be a 
 knower of Reality without being able to take others to it?</p>
 
 <p><b>M:</b> If you know what you teach, you can teach what you know. Here 
 seership and teachership are one. But the Absolute Reality is beyond both. The 
-self-styled *guru*s talk of ripeness and effort, of merits and achievements, 
+self-styled <i>guru</i>s talk of ripeness and effort, of merits and achievements, 
 of destiny and grace; all these are mere mental formations, projections of an 
 addicted mind. Instead of helping, they obstruct.</p>
 
 <p><b>Q:</b> How can I make out whom to follow and whom to mistrust?</p>
 
-<p><b>M:</b> Mistrust all until you are convinced. The true *guru* will never 
+<p><b>M:</b> Mistrust all until you are convinced. The true <i>guru</i> will never 
 humiliate you, nor will he estrange you from yourself. He will constantly 
 bring you back to the fact of your inherent perfection and encourage you to 
 seek within. He knows you need nothing, not even him, and is never tired of 
-reminding you. But the self appointed *guru* is more concerned with himself 
+reminding you. But the self appointed <i>guru</i> is more concerned with himself 
 than with his disciples.</p>
 
 <p><b>Q:</b> You said that reality is beyond the knowledge and the teaching of 
@@ -142,7 +142,7 @@ brought to the forefront. Neither is primary; both are reflections in memory
 of the ineffable experience, ever-new and ever-now, untranslatable, quicker 
 than the mind.</p>
 
-<p><b>Q:</b> Sir, I am a humble seeker, wandering from *guru* to *guru* in 
+<p><b>Q:</b> Sir, I am a humble seeker, wandering from <i>guru</i> to <i>guru</i> in 
 search of release. My mind is sick, burning with desire, frozen with fear. My 
 days flit by, red with pain, grey with boredom. My age is advancing, my health 
 decaying, my future dark and frightening. At this rate, I shall live in sorrow 
@@ -190,13 +190,13 @@ resolutely on the side of the new, the strife will soon come to an end and you
 will realise the effortless state of being oneself, of not being deceived by 
 desires and fears born of illusion.</p>
 
-<p><b>Q:</b> Many *guru*s have the habit of giving tokens of their grace — 
+<p><b>Q:</b> Many <i>guru</i>s have the habit of giving tokens of their grace — 
 their head cloth, sticks, begging bowl, or robe, thus transmitting or 
 confirming the self-realisation of their disciples. I can see no value in such 
 practices. It is not self-realisation that is transmitted, but 
 self-importance. Of what earthly use is being told something very flattering, 
 but not true? On one hand you are warning me against the many self-styled 
-*guru*s; on the other you want me to trust you. Why do you claim to be an 
+<i>guru</i>s; on the other you want me to trust you. Why do you claim to be an 
 exception?</p>
 
 <p><b>M:</b> I do not ask you to trust *me*. Trust my words and remember them, 
@@ -241,12 +241,12 @@ the energy.</p>
 generate enough energy for the next. Energy comes with confidence and 
 confidence comes with experience.</p>
 
-<p><b>Q:</b> Is it right to change *guru*s?</p>
+<p><b>Q:</b> Is it right to change <i>guru</i>s?</p>
 
 <p><b>M:</b> Why not change? *Guru*s are like milestones. It is natural to move 
 on from one to another. Each tells you the direction and the distance, while 
 the <a href="The true spiritual teacher.">sadguru</a>, the 
-eternal *guru*, is the road itself. Once you realise that the road is the goal 
+eternal <i>guru</i>, is the road itself. Once you realise that the road is the goal 
 and that you are always on the road, not to reach a goal, but to enjoy its 
 beauty and its wisdom, life ceases to be a task and becomes natural and 
 simple, in itself an ecstasy.</p>

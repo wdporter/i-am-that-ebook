@@ -97,7 +97,7 @@ the moment.</p>
 <p><b>M:</b> Good enough for a start. By all means, wish yourself well. Think over, feel out deeply what is 
 really good for you and strive for it earnestly. Very soon you will find that the real is your only good.</p>
 
-<p><b>Q:</b> Yet I do not understand why the various *guru*s insist on prescribing complicated and difficult 
+<p><b>Q:</b> Yet I do not understand why the various <i>guru</i>s insist on prescribing complicated and difficult 
 *sadhana*s. Don’t they know better?</p>
 
 <p><b>M:</b> It is not what you do, but what you stop doing that matters. The people who begin their *sadhana* 

@@ -32,7 +32,7 @@ immobilised. Its condition becomes precarious; whatever it undertakes results in
 nowhere. The self is so self-confident, that unless it is totally discouraged, it will not give up. Mere 
 verbal conviction is not enough. Hard facts alone can show the absolute nothingness of the self-image.</p>
 
-<p><b>Q:</b> The brain-washer drives me mad, and the *guru* drives me sane. The driving is similar. Yet the 
+<p><b>Q:</b> The brain-washer drives me mad, and the <i>guru</i> drives me sane. The driving is similar. Yet the 
 motive and the purpose are totally different. The similarities are perhaps merely verbal.</p>
 
 <p><b>M:</b> Inviting or compelling to suffer contains violence and the fruit of violence cannot be sweet.
@@ -66,8 +66,8 @@ which is <i>yoga</i>. All I am asking is, does Maharaj agree with me that <i>yog
 violence. My path is totally nonviolent. I mean exactly what I say: nonviolent. Find out for yourself 
 what it is. I merely say: it is nonviolent.</p>
 
-<p><b>Q:</b> I am not misusing words. When a *guru* asks me to meditate sixteen hours a day for the rest of 
-my life, I cannot do it without extreme violence to myself. Is such a *guru* right or wrong?</p>
+<p><b>Q:</b> I am not misusing words. When a <i>guru</i> asks me to meditate sixteen hours a day for the rest of 
+my life, I cannot do it without extreme violence to myself. Is such a <i>guru</i> right or wrong?</p>
 
 <p><b>M:</b> None compels you to meditate sixteen hours a day unless you feel like doing so. It is only a 
 way of telling you, “remain with yourself, don’t get lost among others”. The teacher will wait, but the

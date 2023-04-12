@@ -280,7 +280,7 @@ Ultimately you abandon all, for you come to something so simple that there are n
 <p><b>Q:</b> I am just beginning. 
 At the start I had no faith, no trust; I was afraid to let things happen. 
 The world seemed to be a very dangerous and inimical place. 
-Now at least, I can talk of trusting the *guru* or God. 
+Now at least, I can talk of trusting the <i>guru</i> or God. 
 Let me grow. 
 Don’t drive me on. 
 Let me proceed at my own pace.</p>
@@ -303,7 +303,7 @@ Let me love what I have.</p>
 
 <p><b>M:</b> You are quite right; do it. Only be honest — just love what you love — don’t strive and strain.</p>
 
-<p><b>Q:</b> This is what I call surrender to the *guru*.</p>
+<p><b>Q:</b> This is what I call surrender to the <i>guru</i>.</p>
 
 <p><b>M:</b> Why exteriorise? 
 Surrender to your own self, of which everything is an expression.

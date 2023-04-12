@@ -73,12 +73,12 @@ concentration on the body defeats its own purpose, for it is the mind that is pr
 When the mind has been put to rest and no longer disturbs the inner space (<a href="[<em>chit</em>, to perceive + <em>akash</em>, expanse, sky] <em>Brahman</em> in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.">chidakash</a>), the body 
 acquires a new meaning and its transformation becomes both necessary and possible.</p>
 
-<p><b>Q:</b> I have been wandering all over India, meeting many *guru*s and learning in small amounts several 
+<p><b>Q:</b> I have been wandering all over India, meeting many <i>guru</i>s and learning in small amounts several 
 <i>yoga</i>s. Is it all right to have a taste of everything?</p>
 
 <p><b>M:</b> No, this is but an introduction. You will meet a man who will help you find your own way.</p>
 
-<p><b>Q:</b> I feel that the *guru* of my own choice can not be my real *guru*. To be real he must come 
+<p><b>Q:</b> I feel that the <i>guru</i> of my own choice can not be my real <i>guru</i>. To be real he must come 
 unexpected and be irresistible.</p>
 
 <p><b>M:</b> Not to anticipate is best. The way you respond is decisive.</p>
@@ -101,7 +101,7 @@ cheerfully whatever life brings is all the austerity you need.</p>
 
 <p><b>M:</b> Accepting what comes.</p>
 
-<p><b>Q:</b> I feel I am too weak to stand on my own legs. I need the holy company of a *guru* and of good 
+<p><b>Q:</b> I feel I am too weak to stand on my own legs. I need the holy company of a <i>guru</i> and of good 
 people. Equanimity is beyond me. To accept what comes as it comes frightens me. I think of my 
 returning to the States with horror.</p>
 
@@ -126,7 +126,7 @@ against yourself, as in austerities and penance, will remain fruitless.</p>
 
 <p><b>M:</b> Your only proof is in yourself. If you find that you turn to gold, it will be a sign that you have 
 touched the philosopher’s stone. Stay with the person and watch what happens to you. Don’t ask 
-others. Their man may not be your *guru*. A *guru* may be universal in his essence, but not in his 
+others. Their man may not be your <i>guru</i>. A <i>guru</i> may be universal in his essence, but not in his 
 expressions. He may appear to be angry or greedy or over-anxious about his *ashram* or his family, 
 and you may be misled by appearances while others are not.</p>
 

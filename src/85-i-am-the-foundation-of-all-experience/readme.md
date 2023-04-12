@@ -186,9 +186,9 @@ The timeless can be reached only by the timeless.
 Your body and your mind are both subject to time; only awareness is timeless, even in the now. 
 In awareness you are facing facts and reality is fond of facts.</p>
 
-<p><b>Q:</b> You rely entirely on my awareness to take me over and not on the *guru* and God.</p>
+<p><b>Q:</b> You rely entirely on my awareness to take me over and not on the <i>guru</i> and God.</p>
 
-<p><b>M:</b> God gives the body and the mind and the *guru* shows the way to use them. 
+<p><b>M:</b> God gives the body and the mind and the <i>guru</i> shows the way to use them. 
 But returning to the source is your own task.</p>
 
 <p><b>Q:</b> God has created me; he will look after me.</p>

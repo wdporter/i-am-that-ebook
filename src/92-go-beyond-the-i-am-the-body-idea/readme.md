@@ -114,7 +114,7 @@ life. Would you say it means also the union of *dharma* and <a href="Action or �
 <p><b>M:</b> Yes, provided by ‘righteousness’ you mean harmony with one’s true nature and by ‘action’ — only 
 unselfish and desireless action.
 
-In *adhi yoga* life itself is the *guru* and the mind is the disciple. The mind attends to life; it does not 
+In *adhi yoga* life itself is the <i>guru</i> and the mind is the disciple. The mind attends to life; it does not 
 dictate. Life flows naturally and effortlessly and the mind removes the obstacles to its even flow.</p>
 
 <p><b>Q:</b> Is not life by its very nature repetitive? Will not following life lead to stagnation?</p>
@@ -123,7 +123,7 @@ dictate. Life flows naturally and effortlessly and the mind removes the obstacle
 a forester — protecting and regulating the immense vital urge of existence.</p>
 
 <p><b>Q:</b> Seen as the service of life by the mind, the *adhi yoga* is a perfect democracy. Everyone is 
-engaged in living a life to his best capacity and knowledge; everyone is a disciple of the same *guru*.</p>
+engaged in living a life to his best capacity and knowledge; everyone is a disciple of the same <i>guru</i>.</p>
 
 <p><b>M:</b> You may say so. It may be so — potentially. But unless life is loved and trusted, followed with 
 eagerness and zest, it would be fanciful to talk of <i>yoga</i>, which is a movement in consciousness, 
