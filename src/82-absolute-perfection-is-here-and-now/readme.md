@@ -18,7 +18,7 @@ inevitable and nobody is responsible.</p>
 <p><b>Q:</b> Surely somebody is responsible for this horrible and senseless 
 carnage. Why do people kill each other so readily?</p>
 
-<p><b>M:</b> Search for the culprit within. The ideas of ‘me’ and ‘mine’ are at 
+<p><b>M:</b> Search for the culprit within. The ideas of “me” and “mine” are at 
 the root of all conflict. Be free of them and you will be out of conflict.</p>
 
 <p><b>Q:</b> What of it if I am out of conflict? It will not affect the war. If 

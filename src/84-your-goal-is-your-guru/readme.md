@@ -76,7 +76,7 @@ Now, what do you expect?</p>
 <p><b>M:</b> What ambitions! 
 How can a person limited in time and space, a mere body–mind, a gasp of pain between birth and death, be happy? 
 The very conditions of its arising make happiness impossible. 
-Peace, power, happiness — these are never personal states; nobody can say ‘my peace’, ‘my power’ — because ‘mine’ implies exclusivity, which is fragile and insecure.</p>
+Peace, power, happiness — these are never personal states; nobody can say ‘my peace’, ‘my power’ — because “mine” implies exclusivity, which is fragile and insecure.</p>
 
 <p><b>Q:</b> I know only my conditioned existence; there is nothing else.</p>
 

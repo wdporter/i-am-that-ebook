@@ -48,7 +48,7 @@ There is nothing wrong with suffering for the sins of others. Your Christianity 
 <p><b>Q:</b> Is not all suffering self-created?</p>
 
 <p><b>M:</b> Yes, as long as there is a separate self to create it. In the end you know that there is no sin, no 
-guilt, no retribution, only life in its endless transformations. With the dissolution of the personal ‘I’, 
+guilt, no retribution, only life in its endless transformations. With the dissolution of the personal “I”, 
 personal suffering disappears. What remains is the great sadness of compassion, the horror of the 
 unnecessary pain.</p>
 

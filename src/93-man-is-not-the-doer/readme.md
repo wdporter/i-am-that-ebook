@@ -103,7 +103,7 @@ really good for you and strive for it earnestly. Very soon you will find that th
 <p><b>M:</b> It is not what you do, but what you stop doing that matters. The people who begin their *sadhana* 
 are so feverish and restless that they have to be very busy to keep themselves on the track. An 
 absorbing routine is good for them. After some time they quiet down and turn away from effort. In 
-peace and silence the skin of the ‘I’ dissolves and the inner and the outer become one. The real 
+peace and silence the skin of the “I” dissolves and the inner and the outer become one. The real 
 *sadhana* is effortless.</p>
 
 <p><b>Q:</b> I have sometimes the feeling that space itself is my body.</p>

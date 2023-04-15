@@ -14,7 +14,7 @@ plans, the purpose — I know nothing. Some activity is going on, things are
 happening; that is all I can say. I am that scaffolding, some thing very 
 flimsy and short-lived. When the building is ready, the scaffolding will be 
 dismantled and removed. The “I am” and ‘What am I?’ are of no importance 
-because once the building is ready, the ‘I’ will go as a matter of course, 
+because once the building is ready, the “I” will go as a matter of course, 
 leaving no questions about itself to answer.</p>
 
 <p><b>Maharaj:</b> Are you not aware of all this? Is not the fact of awareness 
@@ -171,8 +171,8 @@ their full import. Go deep into the meaning of the words ‘being’, ‘living�
 ‘conscious’, and you will stop running in circles and asking questions, but 
 missing answers. Do understand that you cannot ask a valid question about 
 yourself because you do not know whom you are asking about. In the question, 
-“Who am I?”, the ‘I’ is not known and the question can be worded as, “I do not 
-know what I mean by ‘I’”. What you are, you must find out. I can only tell you 
+“Who am I?”, the “I” is not known and the question can be worded as, “I do not 
+know what I mean by “I””. What you are, you must find out. I can only tell you 
 what you are not. You are not of the world; you are not even in the world. The 
 world is not; you alone are. You create the world in your imagination like a 
 dream. As you cannot separate the dream from yourself, so you cannot have an 

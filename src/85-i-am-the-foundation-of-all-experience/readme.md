@@ -159,7 +159,7 @@ I feel lost.</p>
 <p><b>M:</b> Don’t feel lost. 
 I only say that to find the immutable and blissful you must give up your hold on the mutable and painful. 
 You are concerned with your own happiness and I am telling you that there is no such thing. 
-Happiness is never your own; it is where the ‘I’ is not. 
+Happiness is never your own; it is where the “I” is not. 
 I do not say it is beyond your reach; you have only to reach out beyond yourself and you will find it.</p>
 
 <p><b>Q:</b> If I have to go beyond myself, why did I get the “I am” idea in the first instance?</p>

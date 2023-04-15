@@ -143,7 +143,7 @@ You are not even aware of how totally you are swayed by personal considerations.
 A man should always be in revolt against himself for the ego, like a crooked mirror, narrows down and distorts. 
 It is the worst of all tyrants, it dominates you absolutely.</p>
 
-<p><b>Q:</b> When there is no ‘I’, who is free?</p>
+<p><b>Q:</b> When there is no “I”, who is free?</p>
 
 <p><b>M:</b> The world is free of a mighty nuisance. 
 Good enough.</p>

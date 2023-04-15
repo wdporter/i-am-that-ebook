@@ -83,7 +83,7 @@ something did happen to you on that date. What happened?</p>
 
 <p><b>M:</b> The mind ceased producing events. The ancient and ceaseless search 
 stopped — I wanted nothing, expected nothing, accepted nothing as my own. 
-There was no ‘me’ left to strive for. Even the bare “I am” faded away. The 
+There was no “me” left to strive for. Even the bare “I am” faded away. The 
 other thing that I noticed was that I lost all my habitual certainties. 
 Earlier, I was sure of so many things: now I am sure of nothing. But I feel 
 that I have lost nothing by not knowing because all my knowledge was false. My 
