@@ -184,9 +184,9 @@ Live on it.</p>
 
 <p><b>M:</b> It is madness, but it is a deliberate madness. 
 All repetitiveness is <a href="Darkness, inertia, passivity. One of the three constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">tamas</a>, but repeating the name 
-of God is <a href="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</a>–*tamas* due to its high purpose. 
-Because of the presence of <i>sattva</i>, the *tamas* will wear out and will take the shape of complete dispassion, detachment, relinquishment, aloofness, immutability. 
-*Tamas* becomes the firm foundation on which an integrated life can be lived.</p>
+of God is <a href="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</a>–<i>tamas</i> due to its high purpose. 
+Because of the presence of <i>sattva</i>, the <i>tamas</i> will wear out and will take the shape of complete dispassion, detachment, relinquishment, aloofness, immutability. 
+<i>tamas</i> becomes the firm foundation on which an integrated life can be lived.</p>
 
 <p><b>Q:</b> The immutable — does it die?</p>
 

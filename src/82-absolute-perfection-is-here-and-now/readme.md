@@ -267,7 +267,7 @@ differently. But first your attitude to suffering must change. Suffering is
 primarily a call for attention, which itself is a movement of love. More than 
 happiness, love wants growth, the widening and deepening of consciousness and 
 being. Whatever prevents becomes a cause of pain and love does not shirk from 
-pain. *Sattva*, the energy that works for righteousness and orderly 
+pain. <i>Sattva</i>, the energy that works for righteousness and orderly 
 development, must not be thwarted. When obstructed it turns against itself and 
 becomes destructive. Whenever love is withheld and suffering allowed to 
 spread, war becomes inevitable. Our indifference to our neighbour’s sorrow 

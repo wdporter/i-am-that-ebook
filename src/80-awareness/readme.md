@@ -75,14 +75,14 @@ just do not understand.</p>
 
 <p><b>M:</b> Look closely and you will see that the seer and the seen appear 
 only when there is seeing. They are attributes of seeing. When you say “I am 
-seeing this”, “I am” and ‘this’ come with seeing, not before. You cannot have 
-an unseen ‘this’ nor an unseeing “I am”.</p>
+seeing this”, “I am” and “this” come with seeing, not before. You cannot have 
+an unseen “this” nor an unseeing “I am”.</p>
 
 <p><b>Q:</b> I can say, “I do not see”.</p>
 
 <p><b>M:</b> The ‘I am seeing this’ has become ‘I am seeing my not seeing’ or 
 ‘I am seeing darkness’. The seeing remains. In the triplicity of the known, 
-knowing and the knower, only the knowing is a fact. The “I am” and ‘this’ are 
+knowing and the knower, only the knowing is a fact. The “I am” and “this” are 
 doubtful. Who knows? What is known? There is no certainty except that there is 
 knowing.</p>
 
