@@ -145,7 +145,7 @@ But when you talk of the immutable, I feel lost.
 ‘Not this, not that, beyond knowledge, of no use’ — why talk of it all? 
 Does it exist, or is it a concept only, a verbal opposite to the changeable?</p>
 
-<p><b>M:</b> It is; it alone *is*. 
+<p><b>M:</b> It is; it alone <em>is</em>. 
 But in your present state it is of no use to you. 
 Just like the glass of water near your bed if of no use to you when you dream that you are dying of thirst in a desert. 
 I am trying to wake you up, whatever your dream.</p>

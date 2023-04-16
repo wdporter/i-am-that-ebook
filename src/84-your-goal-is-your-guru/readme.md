@@ -97,7 +97,7 @@ All I need is to know that I am free and happy.</p>
 Now, go within, into a state which you may compare to a state of waking sleep, in which you are aware of yourself, but not of the world. 
 In that state you will know, without the least trace of doubt, that at the root of your being, you are free and happy. 
 The only trouble is that you are addicted to experience and you cherish your memories. 
-In reality it is the other way around: what is remembered is never real; the real is *now*.</p>
+In reality it is the other way around: what is remembered is never real; the real is <em>now</em>.</p>
 
 <p><b>Q:</b> All this I grasp verbally, but it does not become a part of myself. 
 It remains as a picture in my mind to be looked at. 
@@ -251,12 +251,12 @@ There are people who maintain that no realisation is possible while alive and I 
 
 <p><b>M:</b> Before you agree or disagree, why not investigate the very idea of a body? 
 Does the mind appear in the body or the body in the mind? 
-Surely there must be a mind to conceive the ‘I am the body’ idea. 
+Surely there must be a mind to conceive the “I am the body” idea. 
 A body without a mind cannot be ‘my body’. 
 ‘My body’ is invariably absent when the mind is in abeyance. 
 It is also absent when the mind is deeply engaged in thoughts and feelings. 
 Once you realise that the body depends on the mind, and the mind on consciousness, and consciousness on awareness, and not the other way round, your question about waiting for self-realisation until you die is answered. 
-It is not that you must be free from the ‘I am the body’ idea first and then realise the self. 
+It is not that you must be free from the “I am the body” idea first and then realise the self. 
 It is definitely the other way round — you cling to the false because you do not know the true. 
 Earnestness, not perfection, is a precondition to self-realisation. 
 Virtues and powers come with realisation, not before.

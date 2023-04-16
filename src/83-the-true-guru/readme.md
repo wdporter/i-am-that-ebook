@@ -118,7 +118,7 @@ removing all that is of the mind.</p>
 <p><b>M:</b> Emptiness remains, awareness remains, pure light of the conscious 
 being remains. It is like asking what remains of a room when all the furniture 
 is removed. A most serviceable room remains. And when even the walls are 
-pulled down, space remains. Beyond space and time is the *here* and the *now* 
+pulled down, space remains. Beyond space and time is the *here* and the <em>now</em> 
 of reality.</p>
 
 <p><b>Q:</b> Does the witness remain?</p>

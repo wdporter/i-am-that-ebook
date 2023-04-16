@@ -61,7 +61,7 @@ affects all others. We all kill the child and we all die with it. Every event
 has innumerable causes and produces numberless effects. It is useless to keep 
 accounts; nothing is traceable.</p>
 
-<p><b>Q:</b> Your people speak of *karma* and retribution.</p>
+<p><b>Q:</b> Your people speak of <i>karma</i> and retribution.</p>
 
 <p><b>M:</b> It is merely a gross approximation. In reality we are all creators 
 and creatures of each other, causing and bearing each other’s burden.</p>
@@ -91,7 +91,7 @@ everything. Still, it is entirely superficial. We hold on to something or
 somebody with all our might and the next moment we forget about it; like a 
 child that shapes its mud-pies and abandons them light-heartedly. Touch them 
 and he will scream with anger; divert the child and he forgets them. For our 
-life is *now*, and the love of it is *now*. We love variety; the play of pain 
+life is <em>now</em>, and the love of it is <em>now</em>. We love variety; the play of pain 
 and pleasure, we are fascinated by contrasts. For this we need the opposites 
 and their apparent separation. We enjoy them for a time and then get tired and 
 crave for the peace and silence of pure being. The cosmic heart beats 

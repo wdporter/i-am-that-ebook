@@ -111,10 +111,10 @@ Endurance is usually the wisest course.</p>
 <p><b>M:</b> Endurance is one thing and helpless agony is another. 
 Endurance is meaningful and fruitful, while agony is useless.</p>
 
-<p><b>Q:</b> Why worry about *karma*? 
+<p><b>Q:</b> Why worry about <i>karma</i>? 
 It takes care of itself anyhow.</p>
 
-<p><b>M:</b> Most of our *karma* is collective. 
+<p><b>M:</b> Most of our <i>karma</i> is collective. 
 We suffer for the sins of others, as others suffer for ours. 
 Humanity is one. 
 Ignorance of this fact does not change it. 

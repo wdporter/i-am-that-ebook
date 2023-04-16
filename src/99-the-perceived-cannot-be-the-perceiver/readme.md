@@ -40,7 +40,7 @@ memory and anticipation there is a clear feeling that it is a mental state under
 the actual, the feeling is primarily of being present and aware.</p>
 
 <p><b>Q:</b> Yes I can see. It is awareness that makes the difference between the actual and the 
-remembered. One thinks of the past or the future, but one is present in the *now*.</p>
+remembered. One thinks of the past or the future, but one is present in the <em>now</em>.</p>
 
 <p><b>M:</b> Wherever you go, you carry the sense of here and now with you all the time. It means that you 
 are independent of space and time, that space and time are in you, not you in them. It is your self-identification 

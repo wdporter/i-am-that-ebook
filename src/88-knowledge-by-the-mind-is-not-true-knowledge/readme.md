@@ -38,7 +38,7 @@ instance?</p>
 <p><b>M:</b> In your world, everything must have a beginning and an end. If it 
 does not, you call it eternal. In my view, there is no such thing as a 
 beginning or an end — these are all related to time. Timeless being is 
-entirely in the *now*.</p>
+entirely in the <em>now</em>.</p>
 
 <p><b>Q:</b> The *antahkarana*, or the ‘subtle body’ — is it real or unreal?</p>
 
@@ -113,8 +113,8 @@ be.</p>
 <p><b>Q:</b> As I watch the <span 
 href="Spiritual aspirant.">sadhaka</a>s and enquire into the 
 theories by which they live, I find they have merely replaced material 
-cravings with ‘spiritual’ ambitions. From what you tell us, it looks as if the 
-words ‘spiritual’ and ‘ambition’ are incompatible. If ‘spirituality’ implies 
+cravings with “spiritual” ambitions. From what you tell us, it looks as if the 
+words “spiritual” and ‘ambition’ are incompatible. If ‘spirituality’ implies 
 freedom from ambition, what will urge the seeker on? The <span 
 href="One who practices <em>yoga</em>.">yogi</a>s speak of 
 the desire for liberation as essential. Is it not the highest form of ambition?</p>

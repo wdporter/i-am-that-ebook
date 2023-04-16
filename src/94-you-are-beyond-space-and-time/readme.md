@@ -177,7 +177,7 @@ what I do is predetermined. Even my so-called free choice is predetermined; only
 it and imagine myself to be free.</p>
 
 <p><b>M:</b> Again, it all depends how you look at it. Ignorance is like a fever — it makes you see things 
-which are not there. *Karma* is the divinely prescribed treatment. Welcome it and follow the 
+which are not there. <i>karma</i> is the divinely prescribed treatment. Welcome it and follow the 
 instructions faithfully and you will get well. A patient will leave the hospital after he recovers. To 
 insist on immediate freedom of choice and action will merely postpone recovery. Accept your 
 destiny and fulfill it — this is the shortest way to freedom from destiny, though not from love and its 

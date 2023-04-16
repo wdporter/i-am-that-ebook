@@ -1,4 +1,4 @@
-# 92. Go Beyond the ‘I am the Body’ Idea
+# 92. Go Beyond the “I am the body” Idea
 > … Go beyond the ‘I am the body idea and you will find that space and time are in you and not you in space and time. Once you have 
 understood this, the main obstacle to realisation is removed.</p>
 
@@ -53,7 +53,7 @@ reach out in time, you are there.</p>
 
 <p><b>Q:</b> Obviously, I am not all-pervading and eternal. I am only here and now.</p>
 
-<p><b>M:</b> Good enough. The ’here’ is everywhere and the ‘now’ — always. Go beyond the ‘I am the body’ 
+<p><b>M:</b> Good enough. The ’here’ is everywhere and the ‘now’ — always. Go beyond the “I am the body” 
 idea and you will find that space and time are in you and not you in space and time. Once you have 
 understood this, the main obstacle to realisation is removed.</p>
 

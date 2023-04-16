@@ -8,7 +8,7 @@ me peace, but there was no peace. This sense of unfulfillment keeps on growing a
 
 <p><b>Maharaj:</b> As long as there is the body and the sense of identity with the body, frustration is 
 inevitable. Only when you know yourself as entirely alien to and different from the body, will you find 
-respite from the mixture of fear and craving inseparable from the ‘I am the body’ idea. Merely 
+respite from the mixture of fear and craving inseparable from the “I am the body” idea. Merely 
 assuaging fears and satisfying desires will not remove this sense of emptiness you are trying to 
 escape from; only self-knowledge can help you. By ‘self-knowledge’ I mean full knowledge of what 
 you are not. Such knowledge is attainable and final, but to the discovery of what you are, there can 

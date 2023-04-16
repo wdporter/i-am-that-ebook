@@ -167,7 +167,7 @@ being?</p>
 
 <p><b>M:</b> Your question contains the answer: a conscious living being is a 
 conscious living being. The words are most appropriate, but you do not grasp 
-their full import. Go deep into the meaning of the words ‘being’, ‘living’ and 
+their full import. Go deep into the meaning of the words “being”, ‘living’ and 
 ‘conscious’, and you will stop running in circles and asking questions, but 
 missing answers. Do understand that you cannot ask a valid question about 
 yourself because you do not know whom you are asking about. In the question, 

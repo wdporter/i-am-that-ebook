@@ -39,12 +39,12 @@ succession.</p>
 
 <p><b>M:</b> You, the self, being the root of all being, consciousness and joy, impart your reality to whatever 
 you perceive. This imparting of reality takes place invariably in the now and at no other time because 
-past and future are only in the mind. ‘Being’ applies to the now only.</p>
+past and future are only in the mind. “being” applies to the now only.</p>
 
 <p><b>Q:</b> Is not eternity endless too?</p>
 
-<p><b>M:</b> Time is endless, though limited; eternity is in the split moment of the *now*. We miss it because 
-the mind is always shuttling between the past and the future. It will not stop to focus the *now*. It can be 
+<p><b>M:</b> Time is endless, though limited; eternity is in the split moment of the <em>now</em>. We miss it because 
+the mind is always shuttling between the past and the future. It will not stop to focus the <em>now</em>. It can be 
 done with comparative ease, if interest is aroused.</p>
 
 <p><b>Q:</b> What arouses interest?</p>
@@ -69,7 +69,7 @@ endeavour.</p>
 
 <p><b>Q:</b> Where will it lead me?</p>
 
-<p><b>M:</b> Where can it lead you except to its own perfection? Once you are well established in the *now*, 
+<p><b>M:</b> Where can it lead you except to its own perfection? Once you are well established in the <em>now</em>, 
 you have nowhere else to go. What you are timelessly, you express eternally.</p>
 
 <p><b>Q:</b> Are you one or many?</p>

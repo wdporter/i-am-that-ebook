@@ -98,7 +98,7 @@ You may cure yourself of all diseases, but if you are still under the influence 
 <p><b>Q:</b> Is it not <a href="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</a> that causes rebirth?</p>
 
 <p><b>M:</b> You may change the name, but the fact remains. 
-What is the drug which you call *karma* or destiny? 
+What is the drug which you call <i>karma</i> or destiny? 
 It made you believe yourself to be what you are not. 
 What is it, and can you be free of it? 
 Before you go further you must accept, at least as a working theory, that you are not what you appear to be, that you are under the influence of a drug. 
