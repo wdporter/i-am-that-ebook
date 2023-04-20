@@ -33,7 +33,7 @@ It was not easy at all.
 I have not yet reached the immutability of absolute completeness.</p>
 
 <p><b>M:</b> Well, as long as you believe so, you must go on with your <a href="The practice which produces success, <em>siddhi</em>.">sadhana</a>, to disperse the false idea of not being complete. 
-*Sadhana* removes the superimpositions. 
+<i>sadhana</i> removes the superimpositions. 
 When you realise yourself as less than a point in space and time, something too small to be cut and too short-lived to be killed, then, and then only, all fear goes. 
 When you are smaller than the point of a needle, then the needle cannot pierce you — you pierce the needle!</p>
 
@@ -154,7 +154,7 @@ We understand.</p>
 <p><b>Q:</b> I feel the need to cool down.</p>
 
 <p><b>M:</b> It is very often so with Americans and Europeans. 
-After a stretch of *sadhana* they become charged with energy and frantically seek an outlet. 
+After a stretch of <i>sadhana</i> they become charged with energy and frantically seek an outlet. 
 They organise communities, become teachers of <i>yoga</i>, marry, write books — anything except keeping quiet and turning their energies within to find the source of the inexhaustible power and learn the art of keeping it under control.</p>
 
 <p><b>Q:</b> I admit that now I want to go back and live a very active life, because I feel full of energy.</p>

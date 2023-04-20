@@ -26,7 +26,7 @@ of reality and whoëver enters it is carried along.</p>
 <p><b>Q:</b> Does it imply acceptance by a living master belonging to the same tradition?</p>
 
 <p><b>M:</b> Those who practise the <a href="The practice which produces success, <em>siddhi</em>.">sadhana</a> of focussing their minds on “I am” may feel related to others 
-who have followed the same *sadhana* and succeeded. They may decide to verbalise their sense of 
+who have followed the same <i>sadhana</i> and succeeded. They may decide to verbalise their sense of 
 kinship by calling themselves *Navanath*s. It gives them the pleasure of belonging to an established 
 tradition.</p>
 

@@ -265,7 +265,7 @@ world, the *tamoguna* obscures it and the *rajoguna* distorts it.</p>
 creates, what obscures and what distorts. The fact remains — something unbelievable happened to 
 me and I do not understand what has happened, how and why.</p>
 
-<p><b>M:</b> Well, wonder is the dawn of wisdom. To be steadily and consistently wondering is *sadhana*.</p>
+<p><b>M:</b> Well, wonder is the dawn of wisdom. To be steadily and consistently wondering is <i>sadhana</i>.</p>
 
 <p><b>Q:</b> I am in a world which I do not understand and therefore I am afraid of it. This is everybody’s 
 experience.</p>

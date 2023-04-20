@@ -176,7 +176,7 @@ I cannot imagine life without a <i>guru</i>.</p>
 <p><b>M:</b> It is a matter of temperament. 
 You, too, are right. 
 For you, singing the praises of God is enough. 
-You need not desire realisation or take up a *sadhana*. 
+You need not desire realisation or take up a <i>sadhana</i>. 
 God’s name is all the food you need. 
 Live on it.</p>
 

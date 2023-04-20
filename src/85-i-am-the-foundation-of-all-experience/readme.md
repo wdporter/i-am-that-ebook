@@ -52,7 +52,7 @@ For the mind craves for content and variety while reality is, to the mind, conte
 
 <p><b>M:</b> It is. 
 It is also all-pervading, all-conquering, intense beyond words. 
-No ordinary brain can stand it without being shattered; hence the absolute need for *sadhana*. 
+No ordinary brain can stand it without being shattered; hence the absolute need for <i>sadhana</i>. 
 Purity of body and clarity of mind, non-violence and selflessness in life are essential for survival as an intelligent and spiritual entity.</p>
 
 <p><b>Q:</b> Are there entities in Reality?</p>

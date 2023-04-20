@@ -73,14 +73,14 @@ ever at hand, but rarely noticed.</p>
 <p><b>Q:</b> You are reducing <a href="The practice which produces success, <em>siddhi</em>.">sadhana</a> to simple attention. How is it that other teachers teach complete, 
 difficult and time-consuming courses?</p>
 
-<p><b>M:</b> The <a href="Spiritual teacher, preceptor.">guru</a>s usually teach the *sadhana*s by which they themselves have reached their goal, 
-whatever their goal may be. This is but natural, for their own *sadhana* they know intimately. I was 
+<p><b>M:</b> The <a href="Spiritual teacher, preceptor.">guru</a>s usually teach the <i>sadhana</i>s by which they themselves have reached their goal, 
+whatever their goal may be. This is but natural, for their own <i>sadhana</i> they know intimately. I was 
 taught to give attention to my sense of “I am” and I found it supremely effective. Therefore, I can 
 speak of it with full confidence. But often people come with their bodies, brain and minds so 
 mishandled, perverted and weak that the state of formless attention is beyond them. In such cases, 
 some simpler token of earnestness is appropriate. The repetition of a <a href="Incantation, hymn, an instrument of thought, ideal sounds visualised as letters and vocalised as syllables. A <em>mantra</em> is a group of words whose constant repetition produces specific results.">mantra</a>, or gazing at a picture 
 will prepare their body and mind for a deeper and more direct search. After all, it is earnestness that 
-is indispensable, the crucial factor. *Sadhana* is only a vessel and it must be filled to the brim with 
+is indispensable, the crucial factor. <i>sadhana</i> is only a vessel and it must be filled to the brim with 
 earnestness, which is but love in action. For nothing can be done without love.</p>
 
 <p><b>Q:</b> We love only ourselves.</p>
@@ -98,13 +98,13 @@ the moment.</p>
 really good for you and strive for it earnestly. Very soon you will find that the real is your only good.</p>
 
 <p><b>Q:</b> Yet I do not understand why the various <i>guru</i>s insist on prescribing complicated and difficult 
-*sadhana*s. Don’t they know better?</p>
+<i>sadhana</i>s. Don’t they know better?</p>
 
-<p><b>M:</b> It is not what you do, but what you stop doing that matters. The people who begin their *sadhana* 
+<p><b>M:</b> It is not what you do, but what you stop doing that matters. The people who begin their <i>sadhana</i> 
 are so feverish and restless that they have to be very busy to keep themselves on the track. An 
 absorbing routine is good for them. After some time they quiet down and turn away from effort. In 
 peace and silence the skin of the “I” dissolves and the inner and the outer become one. The real 
-*sadhana* is effortless.</p>
+<i>sadhana</i> is effortless.</p>
 
 <p><b>Q:</b> I have sometimes the feeling that space itself is my body.</p>
 

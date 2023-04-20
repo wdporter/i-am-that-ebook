@@ -51,14 +51,14 @@ happens to a prisoner. He accepts his punishment as just and proper and is at pe
 prison authorities and the State. All religions do nothing else but preach acceptance and surrender. 
 We are being encouraged to plead guilty, to feel responsible for all the evils in the world and point at 
 ourselves as their only cause. My problem is that I cannot see much difference between brain-washing 
-and *sadhana*, except that in the case of *sadhana* one is not physically constrained. The element of 
+and <i>sadhana</i>, except that in the case of <i>sadhana</i> one is not physically constrained. The element of 
 compulsive suggestion is present in both.</p>
 
 <p><b>M:</b> As you have said, the similarities are superficial. You need not harp on them.</p>
 
 <p><b>Q:</b> Sir, the similarities are not superficial. Man is a complex being and can be at the same time the 
 accuser and the accused, the judge, the warden and the executioner. There is not much that is 
-voluntary in a ‘voluntary’ *sadhana*. One is moved by forces beyond one’s knowledge and control. I can 
+voluntary in a ‘voluntary’ <i>sadhana</i>. One is moved by forces beyond one’s knowledge and control. I can 
 change my mental metabolism as little as the physical, except by painful and protracted efforts — 
 which is <i>yoga</i>. All I am asking is, does Maharaj agree with me that <i>yoga</i> implies violence?</p>
 
