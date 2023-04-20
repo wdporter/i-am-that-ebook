@@ -80,7 +80,7 @@ speak of it with full confidence. But often people come with their bodies, brain
 mishandled, perverted and weak that the state of formless attention is beyond them. In such cases, 
 some simpler token of earnestness is appropriate. The repetition of a <a href="Incantation, hymn, an instrument of thought, ideal sounds visualised as letters and vocalised as syllables. A <em>mantra</em> is a group of words whose constant repetition produces specific results.">mantra</a>, or gazing at a picture 
 will prepare their body and mind for a deeper and more direct search. After all, it is earnestness that 
-is indispensable, the crucial factor. <i>sadhana</i> is only a vessel and it must be filled to the brim with 
+is indispensable, the crucial factor. <i>Sadhana</i> is only a vessel and it must be filled to the brim with 
 earnestness, which is but love in action. For nothing can be done without love.</p>
 
 <p><b>Q:</b> We love only ourselves.</p>
