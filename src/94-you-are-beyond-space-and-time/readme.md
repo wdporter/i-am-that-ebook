@@ -107,7 +107,7 @@ ignorance.</p>
 <p><b>Q:</b> If being happy is the same as being free from fear and worry, can it not be said that absence of 
 trouble is the cause of happiness?</p>
 
-<p><b>M:</b> A state of absence, of non-existence, cannot be a cause — the pre-existence of a cause is implied
+<p><b>M:</b> A state of absence, of nonexistence, cannot be a cause — the pre-existence of a cause is implied
 in the notion. Your natural state, in which nothing exists, cannot be a cause of becoming; the 
 causes are hidden in the great and mysterious power of memory. But your true home is in 
 nothingness, in emptiness of all content.</p>
