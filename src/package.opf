@@ -5,9 +5,12 @@
 		<dc:title>I Am That</dc:title>
 		<dc:creator opf:file-as="I Am That" opf:role="aut">Nisargadatta Maharaj</dc:creator>
 		<dc:contributor opf:file-as="Porter, W. David" opf:role="bkp">David Porter</dc:contributor>
-		<dc:language>eng</dc:language>
+		<dc:date>2023-04-21T14:00:00+00:00</dc:date>
+		<dc:language>en</dc:language>
+		<meta name="cover" content="cover"/>
 	</metadata>
 	<manifest>
+		<item href="cover.jpg" id="cover" media-type="image/jpeg" />
 		<item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml" />
 		<item id="foreword" href="foreword.xhtml" media-type="application/xhtml+xml" />
 		<item id="who-is" href="who-is.xhtml" media-type="application/xhtml+xml" />
