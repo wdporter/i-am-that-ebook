@@ -4,7 +4,7 @@
 timelessly within your heart for recognition. All you have to do is to abandon all memories and 
 expectations. Just keep yourself ready in utter nakedness and nothingness.</p>
 
-<p><b>Questioner:</b> I am an American by birth and for the last one year I was staying in an *ashram* in 
+<p><b>Questioner:</b> I am an American by birth and for the last one year I was staying in an <i>ashram</i> in 
 Madhya Pradesh, studying <a href="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</a> in its many aspects. We had a teacher whose <a href="Spiritual teacher, preceptor.">guru</a>, a disciple of 
 the great Sivananda Saraswati, stays in Monghyr. I stayed at Ramanashram also. While in Bombay 
 I went through an intensive course of Burmese meditation managed by one named Goenka. Yet I have not 
@@ -127,7 +127,7 @@ against yourself, as in austerities and penance, will remain fruitless.</p>
 <p><b>M:</b> Your only proof is in yourself. If you find that you turn to gold, it will be a sign that you have 
 touched the philosopher’s stone. Stay with the person and watch what happens to you. Don’t ask 
 others. Their man may not be your <i>guru</i>. A <i>guru</i> may be universal in his essence, but not in his 
-expressions. He may appear to be angry or greedy or over-anxious about his *ashram* or his family, 
+expressions. He may appear to be angry or greedy or over-anxious about his <i>ashram</i> or his family, 
 and you may be misled by appearances while others are not.</p>
 
 <p><b>Q:</b> Have I not the right to expect all-round perfection, both inner and outer?</p>

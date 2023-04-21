@@ -54,11 +54,11 @@ gives you trouble.</p>
 were really compassionate, you would have abandoned long ago all self-concern and entered the 
 state from which alone you can really help.</p>
 
-<p><b>Q:</b> If I have a big house and enough land, I may create an *ashram*, with individual rooms, common
+<p><b>Q:</b> If I have a big house and enough land, I may create an <i>ashram</i>, with individual rooms, common
 meditation hall, canteen, library and office.</p>
 
-<p><b>M:</b> *Ashram*s are not made, they happen. You cannot start nor prevent them, as you cannot start or 
-stop a river. Too many factors are involved in the creation of a successful *ashram* and your inner 
+<p><b>M:</b> <i>ashram</i>s are not made, they happen. You cannot start nor prevent them, as you cannot start or 
+stop a river. Too many factors are involved in the creation of a successful <i>ashram</i> and your inner 
 maturity is only one of them. Of course, if you are ignorant of your real being, whatever you do must 
 turn to ashes. You cannot imitate a <i>guru</i> and get away with it. All hypocrisy will end in disaster.</p>
 
@@ -66,7 +66,7 @@ turn to ashes. You cannot imitate a <i>guru</i> and get away with it. All hypocr
 
 <p><b>M:</b> Rehearsing saintliness is a <a href="The practice which produces success, <em>siddhi</em>.">sadhana</a>. It is perfectly acceptable, provided no merit is claimed.</p>
 
-<p><b>Q:</b> How can I know whether I am able to start an *ashram* unless I try?</p>
+<p><b>Q:</b> How can I know whether I am able to start an <i>ashram</i> unless I try?</p>
 
 <p><b>M:</b> As long as you take yourself to be a person, a body and a mind, separate from the stream of 
 life, having a will of its own, pursuing its own aims, you are living merely on the surface and 
