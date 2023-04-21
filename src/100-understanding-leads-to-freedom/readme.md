@@ -16,7 +16,7 @@ It struck me that the religious and <a href="One who practices <em>yoga</em>.">y
 physical and mental deprivation, solitary confinement, a powerful sense of sin, despair, and a desire 
 to escape through expiation and conversion, adoption of a new image of oneself and impersonating 
 that image. There is also the same repetition of set formula: “God is good; the <a href="Spiritual teacher, preceptor.">guru</a> (party) knows; faith will 
-save me”. In the so-called *yogi*c or religious practices the same mechanism operates. The mind is 
+save me”. In the so-called <i>yogi</i>c or religious practices the same mechanism operates. The mind is 
 made to concentrate on some particular idea to the exclusion of all other ideas and concentration is 
 powerfully reïnforced by rigid discipline and painful austerities. A high price in life and happiness is 
 paid and what one gets in return appears therefore to be of great importance. This preärranged 
