@@ -16,7 +16,107 @@
 		<item id="app1" href="app1.xhtml" media-type="application/xhtml+xml" />
 		<item id="app2" href="app2.xhtml" media-type="application/xhtml+xml" />
 		<item id="glossary" href="glossary.xhtml" media-type="application/xhtml+xml" />
-		<item id="ch1" href="ch1.xhtml"  media-type="application/xhtml+xml" />
+		<item id="ch1" href="ch1.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch2" href="ch2.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch3" href="ch3.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch4" href="ch4.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch5" href="ch5.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch6" href="ch6.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch7" href="ch7.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch8" href="ch8.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch9" href="ch9.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch10" href="ch10.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch11" href="ch11.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch12" href="ch12.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch13" href="ch13.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch14" href="ch14.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch15" href="ch15.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch16" href="ch16.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch17" href="ch17.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch18" href="ch18.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch19" href="ch19.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch20" href="ch20.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch21" href="ch21.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch22" href="ch22.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch23" href="ch23.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch24" href="ch24.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch25" href="ch25.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch26" href="ch26.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch27" href="ch27.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch28" href="ch28.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch29" href="ch29.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch30" href="ch30.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch31" href="ch31.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch32" href="ch32.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch33" href="ch33.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch34" href="ch34.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch35" href="ch35.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch36" href="ch36.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch37" href="ch37.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch38" href="ch38.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch39" href="ch39.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch40" href="ch40.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch41" href="ch41.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch42" href="ch42.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch43" href="ch43.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch44" href="ch44.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch45" href="ch45.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch46" href="ch46.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch47" href="ch47.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch48" href="ch48.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch49" href="ch49.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch50" href="ch50.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch51" href="ch51.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch52" href="ch52.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch53" href="ch53.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch54" href="ch54.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch55" href="ch55.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch56" href="ch56.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch57" href="ch57.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch58" href="ch58.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch59" href="ch59.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch60" href="ch60.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch61" href="ch61.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch62" href="ch62.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch63" href="ch63.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch64" href="ch64.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch65" href="ch65.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch66" href="ch66.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch67" href="ch67.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch68" href="ch68.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch69" href="ch69.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch70" href="ch70.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch71" href="ch71.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch72" href="ch72.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch73" href="ch73.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch74" href="ch74.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch75" href="ch75.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch76" href="ch76.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch77" href="ch77.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch78" href="ch78.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch79" href="ch79.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch80" href="ch80.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch81" href="ch81.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch82" href="ch82.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch83" href="ch83.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch84" href="ch84.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch85" href="ch85.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch86" href="ch86.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch87" href="ch87.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch88" href="ch88.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch89" href="ch89.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch90" href="ch90.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch91" href="ch91.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch92" href="ch92.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch93" href="ch93.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch94" href="ch94.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch95" href="ch95.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch96" href="ch96.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch97" href="ch97.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch98" href="ch98.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch99" href="ch99.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch100" href="ch100.xhtml" media-type="application/xhtml+xml" />
+		<item id="ch101" href="ch101.xhtml" media-type="application/xhtml+xml" />
 	</manifest>
 
 	<spine>
@@ -26,8 +126,106 @@
 		<itemref idref="translators-note" />
 		<itemref idref="editors-note" />
 		<itemref idref="ch1" />
-
-
+		<itemref idref="ch2" />
+		<itemref idref="ch3" />
+		<itemref idref="ch4" />
+		<itemref idref="ch5" />
+		<itemref idref="ch6" />
+		<itemref idref="ch7" />
+		<itemref idref="ch8" />
+		<itemref idref="ch9" />
+		<itemref idref="ch10" />
+		<itemref idref="ch11" />
+		<itemref idref="ch12" />
+		<itemref idref="ch13" />
+		<itemref idref="ch14" />
+		<itemref idref="ch15" />
+		<itemref idref="ch16" />
+		<itemref idref="ch17" />
+		<itemref idref="ch18" />
+		<itemref idref="ch19" />
+		<itemref idref="ch20" />
+		<itemref idref="ch21" />
+		<itemref idref="ch22" />
+		<itemref idref="ch23" />
+		<itemref idref="ch24" />
+		<itemref idref="ch25" />
+		<itemref idref="ch26" />
+		<itemref idref="ch27" />
+		<itemref idref="ch28" />
+		<itemref idref="ch29" />
+		<itemref idref="ch30" />
+		<itemref idref="ch31" />
+		<itemref idref="ch32" />
+		<itemref idref="ch33" />
+		<itemref idref="ch34" />
+		<itemref idref="ch35" />
+		<itemref idref="ch36" />
+		<itemref idref="ch37" />
+		<itemref idref="ch38" />
+		<itemref idref="ch39" />
+		<itemref idref="ch40" />
+		<itemref idref="ch41" />
+		<itemref idref="ch42" />
+		<itemref idref="ch43" />
+		<itemref idref="ch44" />
+		<itemref idref="ch45" />
+		<itemref idref="ch46" />
+		<itemref idref="ch47" />
+		<itemref idref="ch48" />
+		<itemref idref="ch49" />
+		<itemref idref="ch50" />
+		<itemref idref="ch51" />
+		<itemref idref="ch52" />
+		<itemref idref="ch53" />
+		<itemref idref="ch54" />
+		<itemref idref="ch55" />
+		<itemref idref="ch56" />
+		<itemref idref="ch57" />
+		<itemref idref="ch58" />
+		<itemref idref="ch59" />
+		<itemref idref="ch60" />
+		<itemref idref="ch61" />
+		<itemref idref="ch62" />
+		<itemref idref="ch63" />
+		<itemref idref="ch64" />
+		<itemref idref="ch65" />
+		<itemref idref="ch66" />
+		<itemref idref="ch67" />
+		<itemref idref="ch68" />
+		<itemref idref="ch69" />
+		<itemref idref="ch70" />
+		<itemref idref="ch71" />
+		<itemref idref="ch72" />
+		<itemref idref="ch73" />
+		<itemref idref="ch74" />
+		<itemref idref="ch75" />
+		<itemref idref="ch76" />
+		<itemref idref="ch77" />
+		<itemref idref="ch78" />
+		<itemref idref="ch79" />
+		<itemref idref="ch80" />
+		<itemref idref="ch81" />
+		<itemref idref="ch82" />
+		<itemref idref="ch83" />
+		<itemref idref="ch84" />
+		<itemref idref="ch85" />
+		<itemref idref="ch86" />
+		<itemref idref="ch87" />
+		<itemref idref="ch88" />
+		<itemref idref="ch89" />
+		<itemref idref="ch90" />
+		<itemref idref="ch91" />
+		<itemref idref="ch92" />
+		<itemref idref="ch93" />
+		<itemref idref="ch94" />
+		<itemref idref="ch95" />
+		<itemref idref="ch96" />
+		<itemref idref="ch97" />
+		<itemref idref="ch98" />
+		<itemref idref="ch99" />
+		<itemref idref="ch100" />
+		<itemref idref="ch101" />
 		<itemref idref="app1" />
 		<itemref idref="app2" />
 		<itemref idref="glossary" />
